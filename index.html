@@ -373,7 +373,7 @@
       searchInput.disabled = true;
 
       // Use PapaParse to load and parse 'petguide.csv' (must be in same folder)
-      Papa.parse("https://afrocentrichealth.sharepoint.com/:x:/r/teams/OncologyKnowledgeHub/Shared%20Documents/pet_guide/petguide%20(1).csv", {
+      Papa.parse("petguide.csv", {
         download: true,
         header: true,
         skipEmptyLines: true,
@@ -402,3 +402,4 @@
   </script>
 </body>
 </html>
+
