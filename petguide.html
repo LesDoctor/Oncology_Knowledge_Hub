@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1"
+  />
+  <title>Oncology Imaging Policy Lookup</title>
+  <style>
+    /* ------- Basic Reset & Body ------- */
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+      color: #333;
+      font-size: 0.9rem; /* slightly smaller base font */
+    }
+
+    /* ------- Page Container ------- */
+    .container {
+      width: 98%;
+      max-width: 1200px;  /* allow a wider container */
+      margin: 1rem auto;
+      padding: 0.5rem;
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 0.75rem;
+      font-size: 1.5rem;
+      color:#9d5fa3
+    }
+
+    /* ------- Filter Section ------- */
+    .filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      margin-bottom: 1rem;
+      font-size: 0.85rem; /* make labels and inputs smaller */
+    }
+    .filters > div {
+      flex: 1 1 180px;
+      min-width: 140px;
+    }
+    .filters label {
+      display: block;
+      font-weight: bold;
+      margin-bottom: 0.2rem;
+    }
+    .filters select,
+    .filters input[type="text"] {
+      width: 100%;
+      padding: 0.3rem;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+      font-size: 0.85rem;
+    }
+
+    /* ------- Table Wrapper for Scrolling ------- */
+    .table-wrapper {
+      overflow-x: auto; /* allow horizontal scrolling */
+      margin-top: 0.75rem;
+      border: 1px solid #ddd;
+      border-radius: 3px;
+    }
+
+    /* ------- Results Table ------- */
+    .results-table {
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: auto; /* let columns size to content */
+      font-size: 0.85rem; /* slightly smaller text for cells */
+    }
+    .results-table thead {
+      background: #f0f0f0;
+    }
+    .results-table th,
+    .results-table td {
+      border: 1px solid #ddd;
+      padding: 0.3rem 0.4rem; /* smaller padding */
+      text-align: left;
+      vertical-align: top;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+    }
+    .results-table th {
+      font-weight: bold;
+      white-space: nowrap; /* keep header text on one line */
+    }
+    .results-table td.criteria,
+    .results-table td.checklist {
+      white-space: pre-wrap; /* preserve line breaks */
+    }
+    .no-results {
+      text-align: center;
+      padding: 1rem;
+      color: #9d5fa3;
+      font-size: 0.9rem;
+    }
+
+    /* ------- Responsive Adjustments ------- */
+    @media (max-width: 800px) {
+      .filters {
+        flex-direction: column;
+      }
+      h1 {
+        font-size: 1.3rem;
+        color:#9d5fa3
+      }
+    }
+  </style>
+
+  <!-- Load Papa Parse from CDN to parse CSV -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>PET Policy Lookup</h1>
+
+    <!-- Filters: Scan, Diagnosis, Indication, Search -->
+    <div class="filters">
+      <div>
+        <label for="scanSelect">Scan</label>
+        <select id="scanSelect" disabled>
+          <option value="">All Scans</option>
+        </select>
+      </div>
+      <div>
+        <label for="diagSelect">Diagnosis</label>
+        <select id="diagSelect" disabled>
+          <option value="">All Diagnoses</option>
+        </select>
+      </div>
+      <div>
+        <label for="indSelect">Indication</label>
+        <select id="indSelect" disabled>
+          <option value="">All Indications</option>
+        </select>
+      </div>
+      <div>
+        <label for="searchInput">Search</label>
+        <input
+          type="text"
+          id="searchInput"
+          placeholder="Enter keyword..."
+          disabled
+        />
+      </div>
+    </div>
+
+    <!-- Table Wrapper for horizontal scrolling if needed -->
+    <div class="table-wrapper">
+      <table class="results-table">
+        <thead>
+          <tr>
+            <th>Scan</th>
+            <th>Diagnosis</th>
+            <th>Indication</th>
+            <th>Recommendation</th>
+            <th>Criteria</th>
+            <th>Checklist</th>
+          </tr>
+        </thead>
+        <tbody id="tableBody">
+          <!-- Rows will be injected here -->
+        </tbody>
+      </table>
+    </div>
+
+    <div id="noResults" class="no-results" style="display: none;">
+      No matching entries.
+    </div>
+  </div>
+
+  <script>
+    /***************************************************
+     * 1. Define a global array to hold parsed CSV data
+     ***************************************************/
+    let data = [];
+
+    /***************************************************
+     * 2. Grab references to DOM elements
+     ***************************************************/
+    const scanSelect = document.getElementById("scanSelect");
+    const diagSelect = document.getElementById("diagSelect");
+    const indSelect = document.getElementById("indSelect");
+    const searchInput = document.getElementById("searchInput");
+    const tableBody = document.getElementById("tableBody");
+    const noResultsDiv = document.getElementById("noResults");
+
+    /***************************************************
+     * 3. Utility function to get unique sorted values
+     ***************************************************/
+    function uniqueValues(array, key) {
+      const set = new Set(array.map((item) => item[key]));
+      return Array.from(set).sort();
+    }
+
+    /***************************************************
+     * 4. Populate the Scan dropdown when data is ready
+     ***************************************************/
+    function populateScanDropdown() {
+      const scans = uniqueValues(data, "Scan");
+      scanSelect.innerHTML = '<option value="">All Scans</option>';
+      scans.forEach((scan) => {
+        const opt = document.createElement("option");
+        opt.value = scan;
+        opt.textContent = scan;
+        scanSelect.appendChild(opt);
+      });
+      scanSelect.disabled = false;
+    }
+
+    /***************************************************
+     * 5. Populate Diagnosis dropdown based on selected Scan
+     ***************************************************/
+    scanSelect.addEventListener("change", () => {
+      const selectedScan = scanSelect.value;
+      diagSelect.innerHTML = '<option value="">All Diagnoses</option>';
+      indSelect.innerHTML = '<option value="">All Indications</option>';
+      indSelect.disabled = true;
+
+      if (selectedScan) {
+        const filtered = data.filter((row) => row.Scan === selectedScan);
+        const diagnoses = uniqueValues(filtered, "Diagnosis");
+        diagnoses.forEach((d) => {
+          const opt = document.createElement("option");
+          opt.value = d;
+          opt.textContent = d;
+          diagSelect.appendChild(opt);
+        });
+        diagSelect.disabled = false;
+      } else {
+        diagSelect.disabled = true;
+        indSelect.disabled = true;
+      }
+      updateTable();
+    });
+
+    /***************************************************
+     * 6. Populate Indication dropdown based on Scan + Diagnosis
+     ***************************************************/
+    diagSelect.addEventListener("change", () => {
+      const selectedScan = scanSelect.value;
+      const selectedDiagnosis = diagSelect.value;
+      indSelect.innerHTML = '<option value="">All Indications</option>';
+
+      if (selectedScan && selectedDiagnosis) {
+        const filtered = data.filter(
+          (row) =>
+            row.Scan === selectedScan &&
+            row.Diagnosis === selectedDiagnosis
+        );
+        const indications = uniqueValues(filtered, "Indication");
+        indications.forEach((ind) => {
+          const opt = document.createElement("option");
+          opt.value = ind;
+          opt.textContent = ind;
+          indSelect.appendChild(opt);
+        });
+        indSelect.disabled = false;
+      } else {
+        indSelect.disabled = true;
+      }
+      updateTable();
+    });
+
+    /***************************************************
+     * 7. Update table when Indication or Search changes
+     ***************************************************/
+    indSelect.addEventListener("change", updateTable);
+    searchInput.addEventListener("input", updateTable);
+
+    /***************************************************
+     * 8. Filter data and render table rows
+     ***************************************************/
+    function updateTable() {
+      const selScan = scanSelect.value.trim();
+      const selDiag = diagSelect.value.trim();
+      const selInd = indSelect.value.trim();
+      const keyword = searchInput.value.trim().toLowerCase();
+
+      // Filter rows based on selected filters and search term
+      const results = data.filter((row) => {
+        // Match dropdown filters
+        const matchScan = selScan ? row.Scan === selScan : true;
+        const matchDiag = selDiag ? row.Diagnosis === selDiag : true;
+        const matchInd = selInd ? row.Indication === selInd : true;
+
+        // Match search keyword against all text fields
+        let matchSearch = true;
+        if (keyword) {
+          const combined = (
+            row.Scan +
+            " " +
+            row.Diagnosis +
+            " " +
+            row.Indication +
+            " " +
+            row.Recommendation +
+            " " +
+            row.Criteria +
+            " " +
+            row.Checklist
+          ).toLowerCase();
+          matchSearch = combined.includes(keyword);
+        }
+
+        return matchScan && matchDiag && matchInd && matchSearch;
+      });
+
+      // Clear existing table body
+      tableBody.innerHTML = "";
+
+      // If no results, show message
+      if (results.length === 0) {
+        noResultsDiv.style.display = "block";
+        return;
+      }
+      noResultsDiv.style.display = "none";
+
+      // Populate table with filtered results
+      results.forEach((row) => {
+        const tr = document.createElement("tr");
+
+        const tdScan = document.createElement("td");
+        tdScan.textContent = row.Scan;
+        tr.appendChild(tdScan);
+
+        const tdDiag = document.createElement("td");
+        tdDiag.textContent = row.Diagnosis;
+        tr.appendChild(tdDiag);
+
+        const tdInd = document.createElement("td");
+        tdInd.textContent = row.Indication;
+        tr.appendChild(tdInd);
+
+        const tdRec = document.createElement("td");
+        tdRec.textContent = row.Recommendation;
+        tr.appendChild(tdRec);
+
+        const tdCriteria = document.createElement("td");
+        tdCriteria.className = "criteria";
+        tdCriteria.textContent = row.Criteria;
+        tr.appendChild(tdCriteria);
+
+        const tdChecklist = document.createElement("td");
+        tdChecklist.className = "checklist";
+        tdChecklist.textContent = row.Checklist;
+        tr.appendChild(tdChecklist);
+
+        tableBody.appendChild(tr);
+      });
+    }
+
+    /***************************************************
+     * 9. On page load, parse the CSV and initialize
+     ***************************************************/
+    window.addEventListener("DOMContentLoaded", () => {
+      // Disable filters until CSV is loaded
+      scanSelect.disabled = true;
+      diagSelect.disabled = true;
+      indSelect.disabled = true;
+      searchInput.disabled = true;
+
+      // Use PapaParse to load and parse 'petguide.csv' (must be in same folder)
+      Papa.parse("https://afrocentrichealth.sharepoint.com/:x:/r/teams/OncologyKnowledgeHub/Shared%20Documents/pet_guide/petguide%20(1).csv", {
+        download: true,
+        header: true,
+        skipEmptyLines: true,
+        complete: function (results) {
+          // Each row object will have keys matching CSV headers
+          data = results.data.map((row) => {
+            // Ensure line breaks in Checklist are actual newline characters
+            if (row.Checklist) {
+              row.Checklist = row.Checklist
+                .replace(/\r/g, "")
+                .replace(/\\n/g, "\n");
+            }
+            return row;
+          });
+
+          // Now that data is loaded, enable controls and render
+          populateScanDropdown();
+          searchInput.disabled = false;
+          updateTable();
+        },
+        error: function (error) {
+          console.error("Error parsing CSV:", error);
+        },
+      });
+    });
+  </script>
+</body>
+</html>

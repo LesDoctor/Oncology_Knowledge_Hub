@@ -1,0 +1,1318 @@
+﻿Scan,Diagnosis,Indication,Recommendation,Criteria,Checklist
+18F-FDG PET,Central nervous system (CNS) tumours,Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Central nervous system (CNS) tumours,Diagnosis,Not Recommended,FDG PET/CT is not recommended for grading of brain tumours.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Central nervous system (CNS) tumours,Diagnosis,Recommended in Select Cases,FDG PET/CT is recommended in select cases for distinguishing cerebral tumour from atypical infection in HIV-positive (HIV+) patients when anatomical imaging is inconclusive. The greatest utility of FDG PET/CT may be in distinguishing infection from primary CNS lymphoma.,"• Clinical notes detailing the inconclusive anatomical imaging results  
+• Documentation of the patient's HIV status and relevant medical history  
+• Justification for the need for FDG PET/CT to distinguish between cerebral tumour and atypical infection  
+• Any previous imaging studies related to the diagnosis of CNS tumours"
+18F-FDG PET,Central nervous system (CNS) tumours,Diagnosis,May be Considered,FDG PET/CT may provide optimal targets for stereotactic biopsy to increase the diagnostic yield from this procedure.,"• Confirm the diagnosis of CNS tumours with supporting medical documentation.  
+• Provide clinical rationale for the use of 18F-FDG PET in the context of diagnosis.  
+• Include previous imaging studies and their results to demonstrate the need for PET/CT.  
+• Document the plan for stereotactic biopsy and how PET/CT will enhance diagnostic yield."
+18F-FDG PET,Central nervous system (CNS) tumours,Staging,Not Recommended,FDG PET/CT is not recommended for staging.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Central nervous system (CNS) tumours,Staging,May be Considered,Meningioma delineation prior to resection and defining optimal radiotherapy target volume.,"• Clinical notes detailing the diagnosis of CNS tumours and indication for staging  
+• Imaging reports supporting the need for 18F-FDG PET for meningioma delineation  
+• Treatment plan outlining the proposed resection and radiotherapy target volume  
+• Justification for the use of 18F-FDG PET in this specific clinical scenario"
+18F-FDG PET,Central nervous system (CNS) tumours,Early response assessment,May be Considered,FDG PET/CT may be considered to assess response to chemotherapy.,"• Confirm diagnosis of CNS tumours with supporting medical records.  
+• Provide documentation of chemotherapy treatment regimen and response.  
+• Include previous imaging results for comparison (if applicable).  
+• Justify the need for 18F-FDG PET for early response assessment."
+18F-FDG PET,Central nervous system (CNS) tumours,Restaging/response post therapy,Not Recommended,FDG PET/CT is not recommended for restaging post therapy.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Central nervous system (CNS) tumours,Restaging/response post therapy,Not Recommended,FDG PET/CT is not recommended for restaging of confirmed recurrence.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Central nervous system (CNS) tumours,Suspected recurrence,Recommended in Select Cases,FDG PET/CT is recommended in select cases to distinguish between suspected tumour recurrence and radiation necrosis when MRI is inconclusive.,"• Confirm the diagnosis of CNS tumours and document the clinical history.  
+• Provide MRI results indicating inconclusiveness regarding recurrence vs. radiation necrosis.  
+• Include physician's recommendation for the 18F-FDG PET scan based on clinical judgment.  
+• Ensure all relevant patient information and previous imaging studies are attached."
+18F-FDG PET,Central nervous system (CNS) tumours,Surveillance,Not Recommended,FDG PET/CT is not recommended for routine surveillance.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Central nervous system (CNS) tumours,Radiotherapy planning,Not Recommended,FDG PET/CT is not recommended for radiotherapy planning.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Central nervous system (CNS) tumours,Diagnosis,Recommended in Select Cases,Assist in decision-making and target selection for biopsy by identifying the grade of malignancy where there is uncertainty on anatomical imaging,"• Confirm the diagnosis of CNS tumours with supporting pathology reports.  
+• Provide clinical notes detailing the uncertainty in anatomical imaging.  
+• Include previous imaging studies and their interpretations.  
+• Document the rationale for using 18F-FDG PET in decision-making and biopsy target selection."
+18F-FDG PET,Central nervous system (CNS) tumours,Suspected recurrence,Recommended in Select Cases,Suspected relapse where magnetic resonance imaging (MRI) is equivocal to inform decisions regarding surgery or radiotherapy planning. See below for alternative PET imaging with 11C-methionine or [18F]fluoroethyltyrosine (FET).,"• Confirm diagnosis of CNS tumours with supporting pathology report.  
+• Provide MRI results indicating equivocal findings.  
+• Document clinical rationale for the need for 18F-FDG PET to inform surgical or radiotherapy planning.  
+• Include any previous imaging studies and treatment history relevant to suspected recurrence."
+18F-FDG PET,Central nervous system (CNS) tumours,Restaging,Recommended in Select Cases,Assessment of suspected high-grade transformation in low-grade glioma.,"• Clinical notes detailing the diagnosis of CNS tumours and the rationale for restaging  
+• Imaging reports from previous scans to assess changes in the tumour  
+• Documentation supporting the suspicion of high-grade transformation in low-grade glioma  
+• Any relevant pathology reports or biopsy results indicating tumour characteristics"
+18F-FDG PET,Central nervous system (CNS) tumours,Restaging,Recommended in Select Cases,To differentiate recurrent glioma from post-treatment effects when MRI is unhelpful.,"• Clinical notes detailing the patient's history and previous imaging results  
+• MRI reports indicating limitations or inconclusive findings  
+• Justification for the use of 18F-FDG PET in differentiating recurrent glioma from post-treatment effects  
+• Documentation of any previous treatments and their outcomes"
+18F-FDG PET,Plexiform neurofibroma,Diagnosis,May be Considered,FDG PET/CT may be considered in patients with suspected malignant transformation of plexiform neurofibroma in neurofibromatosis type 1.,"• Confirm diagnosis of plexiform neurofibroma and neurofibromatosis type 1.  
+• Document clinical suspicion of malignant transformation.  
+• Provide previous imaging results, if available, to support the request.  
+• Include a physician's note detailing the rationale for the 18F-FDG PET scan."
+18F-FDG PET,Head and neck cancer,Screening,May be Considered,"FDG PET/CT may be considered for screening for a second primary tumour. Second primary tumours can occur in up to 27% of head and neck squamous cell cancer patients, most frequently in the head and neck region, oesophagus and lungs.","• Confirm the diagnosis of head and neck cancer with pathology report.  
+• Document the indication for screening for a second primary tumour.  
+• Provide evidence of previous cancers or risk factors for second primary tumours.  
+• Include clinical notes justifying the need for 18F-FDG PET scan."
+18F-FDG PET,Head and neck cancer,Diagnosis,Recommended in Select Cases,FDG PET/CT is recommended in select cases for detection of an occult primary tumour site in patients presenting with cervical nodal metastases.,"• Confirm diagnosis of head and neck cancer with supporting pathology report.  
+• Document presence of cervical nodal metastases and any previous imaging results.  
+• Provide clinical rationale for the use of FDG PET/CT in detecting an occult primary tumor site.  
+• Include any relevant treatment history and current symptoms to support the request."
+18F-FDG PET,Head and neck cancer,Staging,Recommended in Select Cases,"FDG PET/CT is recommended in select cases for initial staging in patients with suspected advanced-stage disease, or tumours with a high propensity for spreading (such as naso- and hypopharyngeal carcinomas).","• Confirm diagnosis of head and neck cancer with pathology report.  
+• Document clinical indication for staging and rationale for PET scan.  
+• Provide evidence of suspected advanced-stage disease or high-risk tumor characteristics.  
+• Include any previous imaging results relevant to staging."
+18F-FDG PET,Head and neck cancer,Restaging/response post therapy,Recommended,FDG PET/CT is recommended for treatment response assessment.,"• Confirm the diagnosis of head and neck cancer with supporting pathology reports.  
+• Provide documentation of previous treatments and therapy response.  
+• Include clinical notes detailing the need for restaging and treatment response assessment.  
+• Ensure the imaging request is clearly stated as 18F-FDG PET for the specified indication."
+18F-FDG PET,Head and neck cancer,Suspected recurrence,Recommended,FDG PET/CT is recommended for detection of recurrence in patients suspected clinically or on conventional imaging of having recurrent disease (locoregional or distant).,"• Clinical notes detailing the suspicion of recurrence based on symptoms or conventional imaging  
+• Previous imaging reports (e.g., CT, MRI) showing initial diagnosis and any changes  
+• Pathology reports confirming head and neck cancer diagnosis  
+• Justification for the use of 18F-FDG PET in this specific case based on clinical guidelines"
+18F-FDG PET,Head and neck cancer,Surveillance,Not Recommended,FDG PET/CT is not recommended in asymptomatic patients where there is no suspicion of recurrence.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Head and neck cancer,Radiotherapy planning,Recommended,FDG PET/CT is recommended for radiation therapy planning.,"• Confirm the diagnosis of head and neck cancer with supporting pathology report.  
+• Provide clinical rationale for the use of 18F-FDG PET in radiotherapy planning.  
+• Include previous imaging studies and treatment history relevant to the case.  
+• Document any relevant clinical guidelines or evidence supporting the use of FDG PET/CT for this indication."
+18F-FDG PET,Head and neck cancer,Staging,Recommended in Select Cases,"Staging of patients where staging is difficult clinically; for example, where there is uncertainty on other imaging or equivocal findings that would preclude radical treatment.","• Clinical notes detailing the difficulty in staging and any equivocal findings from previous imaging.  
+• Justification for the use of 18F-FDG PET in this specific case, highlighting the need for accurate staging.  
+• Any relevant imaging reports that demonstrate uncertainty or challenges in diagnosis.  
+• Patient history that supports the necessity of staging for potential radical treatment options."
+18F-FDG PET,Head and neck cancer,Staging,Recommended in Select Cases,Staging or restaging of patients with a high-risk of disseminated disease such as advanced loco-regional disease and primary sites with a high propensity for disseminated disease such as nasophayngeal and hypopharyngeal cancer.,"• Confirm diagnosis of head and neck cancer with pathology report.  
+• Document staging or restaging indication with clinical notes.  
+• Provide evidence of high-risk factors for disseminated disease.  
+• Include previous imaging results if applicable."
+18F-FDG PET,Head and neck cancer,Restaging,Recommended in Select Cases,Staging or restaging of patients with a high-risk of disseminated disease such as advanced loco-regional disease and primary sites with a high propensity for disseminated disease such as nasophayngeal and hypopharyngeal cancer.,"• Confirm diagnosis of head and neck cancer with pathology report.  
+• Document advanced loco-regional disease status and any previous imaging results.  
+• Provide clinical rationale for restaging and indication of high-risk for disseminated disease.  
+• Include treatment history and any relevant patient symptoms or findings."
+18F-FDG PET,Head and neck cancer,Diagnosis,Recommended in Select Cases,"To identify the primary site in patients presenting with metastatic squamous cell carcinoma in cervical lymph nodes, with no primary site identified on other imaging.","• Confirm diagnosis of head and neck cancer with pathology report.  
+• Document previous imaging results showing no identified primary site.  
+• Provide clinical notes detailing the presentation of metastatic squamous cell carcinoma in cervical lymph nodes.  
+• Justify the necessity of 18F-FDG PET scan for diagnosis in this specific case."
+18F-FDG PET,Head and neck cancer,Restaging,May be Considered,Response assessment three to six months’ post chemoradiotherapy in head and neck cancer with advanced locoregional or metastatic disease,"• Confirm diagnosis of head and neck cancer with supporting pathology report.  
+• Document treatment history, including details of chemoradiotherapy regimen.  
+• Provide clinical notes indicating the timing of restaging (3-6 months post-treatment).  
+• Include any previous imaging results for comparison and assessment of response."
+18F-FDG PET,Head and neck cancer,Suspected recurrence,Recommended,To differentiate relapse from treatment effects in patients suspected to have tumour recurrence where MRI is uncertain or equivocal.,"• Clinical notes detailing the diagnosis of head and neck cancer and the suspicion of recurrence  
+• MRI results indicating uncertainty or equivocal findings  
+• Justification for the use of 18F-FDG PET to differentiate relapse from treatment effects  
+• Any previous imaging studies relevant to the current evaluation"
+18F-FDG PET,Thyroid cancer,Screening,Not Recommended,FDG PET/CT is not recommended for screening at-risk populations.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Thyroid cancer,Diagnosis,Not Recommended,FDG PET/CT is not recommended for the diagnosis of thyroid cancers.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Thyroid cancer,Staging,Not Recommended,The routine use of FDG PET/CT in differentiated thyroid carcinoma is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Thyroid cancer,Staging,Recommended in Select Cases,FDG PET/CT is recommended in select cases for the assessment of the extent of disease in patients with Hurthle cell carcinomas.,"• Confirm diagnosis of Hurthle cell carcinoma  
+• Provide clinical rationale for staging with 18F-FDG PET  
+• Include previous imaging results and treatment history  
+• Document any relevant symptoms or findings supporting the need for the scan"
+18F-FDG PET,Thyroid cancer,Restaging/response post therapy,Recommended in Select Cases,FDG PET/CT is recommended in select cases in evaluation of treatment response following systemic or local therapy of metastatic or locally invasive disease in poorly differentiated thyroid cancers and invasive Hurthle cell carcinomas.,"• Confirm diagnosis of poorly differentiated thyroid cancer or invasive Hurthle cell carcinoma.  
+• Document previous systemic or local therapy details and treatment response.  
+• Provide clinical rationale for the need for 18F-FDG PET scan in restaging.  
+• Include any relevant imaging studies or pathology reports supporting the request."
+18F-FDG PET,Thyroid cancer,Restaging/response post therapy,May be Considered,FDG PET/CT may be considered in medullary thyroid cancer to detect additional sites of disease in the context of a detectable calcitonin post thyroidectomy.,"• Confirm diagnosis of medullary thyroid cancer with pathology report.  
+• Provide evidence of detectable calcitonin levels post-thyroidectomy.  
+• Include previous imaging results and therapy history.  
+• Document clinical rationale for restaging/response assessment."
+18F-FDG PET,Thyroid cancer,Suspected recurrence,Recommended in Select Cases,FDG PET/CT is recommended in select cases of differentiated thyroid cancer for detection of residual or recurrent disease when serum thyroglobulin is elevated and radioiodine scan is negative.,"• Confirm diagnosis of differentiated thyroid cancer  
+• Provide evidence of elevated serum thyroglobulin levels  
+• Include results of recent radioiodine scan indicating negative findings  
+• Document clinical rationale for the necessity of 18F-FDG PET scan in this case"
+18F-FDG PET,Thyroid cancer,Suspected recurrence,May be Considered,"FDG PET/CT may be considered for suspected recurrence in treated medullary thyroid cancer, presenting with elevated calcitonin or carcinoembryonic antigen with normal or equivocal conventional imaging and octreotide scintigraphy. Alternative PET-CT imaging with 68Ga-DOTATATE/NOC/TOC is recommended in these select cases.","• Confirm diagnosis of thyroid cancer and document treatment history.  
+• Provide evidence of elevated calcitonin or carcinoembryonic antigen levels.  
+• Include results of conventional imaging and octreotide scintigraphy.  
+• Consider alternative PET-CT imaging options (68Ga-DOTATATE/NOC/TOC) if applicable."
+18F-FDG PET,Thyroid cancer,Surveillance,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Thyroid cancer,Radiotherapy planning,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Thyroid cancer,Diagnosis,Recommended in Select Cases,Assessment of patients with elevated thyroglobulin levels and negative iodine scintigraphy with suspected recurrent disease.,"• Confirm diagnosis of thyroid cancer with pathology report.  
+• Document elevated thyroglobulin levels and negative iodine scintigraphy results.  
+• Provide clinical rationale for the need for 18F-FDG PET scan in the context of suspected recurrent disease.  
+• Ensure all relevant imaging and lab results are included in the submission."
+18F-FDG PET,Thyroid cancer,Suspected recurrence,Recommended in Select Cases,"To evaluate disease in treated medullary thyroid carcinoma associated with elevated calcitonin levels with equivocal or normal cross-sectional imaging, bone and octreotide scintigraphy.","• Confirm diagnosis of medullary thyroid carcinoma with elevated calcitonin levels.  
+• Provide recent cross-sectional imaging results indicating equivocal or normal findings.  
+• Include previous bone and octreotide scintigraphy results.  
+• Document clinical rationale for the need for 18F-FDG PET scan in this specific case."
+18F-FDG PET,Thyroid cancer,Restaging/response post therapy,Recommended in Select Cases,Monitor response to tyrosine kinase inhibitor (TKI) therapy in patients with FDG-avid and non-iodine-avid disease,"• Clinical documentation confirming diagnosis of thyroid cancer  
+• Evidence of FDG-avid and non-iodine-avid disease status  
+• Treatment history including details of tyrosine kinase inhibitor therapy  
+• Justification for the need for restaging/response assessment via 18F-FDG PET"
+18F-FDG PET,Thyroid cancer,Staging,May be Considered,Evaluation of anaplastic thyroid cancer in highly selected cases based on a multidisciplinary decision where impact on clinical management is expected.,"• Multidisciplinary team decision documentation indicating the necessity of the 18F-FDG PET scan for staging.  
+• Clinical notes detailing the diagnosis of anaplastic thyroid cancer and rationale for imaging.  
+• Evidence of expected impact on clinical management from the imaging results.  
+• Any prior imaging studies or treatments related to the thyroid cancer diagnosis."
+18F-FDG PET,Thymoma and thymic carcinoma,Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Thymoma and thymic carcinoma,Diagnosis,May be Considered,"FDG PET/CT may be considered as part of the work-up of anterior mediastinal mass, to detect other lesions. In addition, FDG PET/CT may assist in differentiating thymoma from thymic carcinoma.","• Clinical notes detailing the diagnosis of thymoma or thymic carcinoma  
+• Imaging reports of the anterior mediastinal mass  
+• Justification for the use of 18F-FDG PET in the work-up  
+• Any previous imaging studies relevant to the case"
+18F-FDG PET,Thymoma and thymic carcinoma,Diagnosis,Not Recommended,FDG PET/CT is not recommended to distinguish thymic hyperplasia from thymoma.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Thymoma and thymic carcinoma,Staging,May be Considered,Staging of patients considered for surgical resection,"• Confirm diagnosis of thymoma or thymic carcinoma with pathology report.  
+• Provide clinical notes detailing staging and surgical resection consideration.  
+• Include previous imaging studies and their results for comparison.  
+• Document any relevant symptoms or progression of disease."
+18F-FDG PET,Thymoma and thymic carcinoma,Restaging/response post therapy,May be Considered,FDG PET/CT may be considered for restaging of thymic carcinoma post therapy. In such cases a baseline PET/CT is required.,"• Confirm diagnosis of thymoma or thymic carcinoma  
+• Provide documentation of prior therapy and response  
+• Include baseline PET/CT results  
+• Justify the need for 18F-FDG PET for restaging purposes"
+18F-FDG PET,Thymoma and thymic carcinoma,Restaging/response post therapy,May be Considered,FDG PET/CT may be considered to assess treatment response in patients with unresectable Masaoka stage III or IV thymoma. In such cases a baseline PET/CT is recommended for comparison.,"• Confirm diagnosis of thymoma or thymic carcinoma with supporting pathology reports.  
+• Provide documentation of previous treatments and therapy response.  
+• Include baseline FDG PET/CT results for comparison.  
+• Justify the need for restaging based on Masaoka stage III or IV classification."
+18F-FDG PET,Thymoma and thymic carcinoma,Restaging/response post therapy,May be Considered,Assessment of indeterminate thymic lesions if being considered for radical treatment,"• Clinical notes detailing the diagnosis of thymoma or thymic carcinoma  
+• Documentation of previous therapies and response to treatment  
+• Imaging reports of indeterminate thymic lesions  
+• Justification for the need for 18F-FDG PET scan for restaging/response assessment"
+18F-FDG PET,Thymoma and thymic carcinoma,Restaging/response post therapy,May be Considered,Response assessment to therapy where there is uncertainty on conventional imaging.,"• Clinical notes detailing the diagnosis of thymoma or thymic carcinoma  
+• Documentation of previous imaging results indicating uncertainty  
+• Treatment history and response to therapy  
+• Justification for the use of 18F-FDG PET for restaging purposes"
+18F-FDG PET,Thymoma and thymic carcinoma,Suspected recurrence,May be Considered,FDG PET/CT may be considered to detect suspected recurrence of thymoma or thymic carcinoma if CT findings are inconclusive.,"• Confirm the diagnosis of thymoma or thymic carcinoma with supporting pathology reports.  
+• Provide recent CT imaging results indicating inconclusive findings.  
+• Include a clinical note detailing the suspicion of recurrence and rationale for the PET scan.  
+• Document any previous imaging studies and treatment history relevant to the case."
+18F-FDG PET,Thymoma and thymic carcinoma,Surveillance,Not Recommended,FDG PET/CT is not recommended for routine follow-up.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Thymoma and thymic carcinoma,Radiotherapy planning,Not Recommended,FDG PET/CT is not recommended for radiotherapy planning in thymoma.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Thymoma and thymic carcinoma,Radiotherapy planning,Not Recommended,FDG PET/CT is not recommended for radiotherapy planning in thymic carcinoma.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Breast cancer,Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Breast cancer,Diagnosis,Not Recommended,FDG PET/CT is not recommended for routine use in diagnosis.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Breast cancer,Diagnosis,May be Considered,"FDG PET/CT may be considered in selected patients with dense breasts, where the sensitivity of mammography is poor. To identify occult primary breast cancers in a highly selected group of patients with proven lymph nodal (particularly axillary) or distant metastatic disease but undetected 
+lesions on dedicated breast imaging","• Patient's medical history and documentation of breast cancer diagnosis  
+• Imaging results from previous mammography and dedicated breast imaging  
+• Evidence of dense breast tissue and any prior lymph nodal or metastatic findings  
+• Justification for the use of FDG PET/CT based on the criteria outlined"
+18F-FDG PET,Breast cancer,Staging,Recommended in Select Cases,"FDG PET/CT is recommended in select cases for initial staging of patients with locally advanced or metastatic breast cancer or inflammatory breast cancer as an adjunct to conventional imaging, when conventional studies (such as CT or bone scan) are equivocal.","• Confirm diagnosis of locally advanced or metastatic breast cancer or inflammatory breast cancer.  
+• Provide results of conventional imaging studies (CT or bone scan) indicating equivocal findings.  
+• Include clinical rationale for the use of FDG PET/CT as an adjunct to conventional imaging.  
+• Document any relevant patient history or symptoms that support the need for staging."
+18F-FDG PET,Breast cancer,Staging,May be Considered,"Staging of inflammatory or non-inflammatory locally advanced breast cancers (LABC) – instead of and not in addition to CT scan and bone scan. Replacing or complementing standard staging imaging studies in high-risk patients, such as patients with – High tumour burden: – Large tumours (e.g. > 5 cm, T3) and/or;– Clinically positive axillary nodes (cN+);– Aggressive tumour biology, e.g. triple-negative breast carcinoma;†– Clinical signs, symptoms or laboratory values suggesting the presence of metastases. For the purpose of these recommendations, LABC means inoperable, non-metastatic locally advanced breast cancer;  In the initial staging, FDG PET-CT imaging has been suggested in patients with clinical stage IIA (T1N1 or T2N0) and strongly recommended in patients with clinical stage >=IIB breast cancer, and is better when performed before surgery;","• Clinical documentation supporting the diagnosis of locally advanced breast cancer (LABC)  
+• Evidence of high-risk factors (e.g., tumor size, axillary node involvement, aggressive biology)  
+• Justification for the use of 18F-FDG PET instead of standard imaging (CT scan, bone scan)  
+• Initial staging details, including clinical stage and any relevant symptoms or lab results"
+18F-FDG PET,Breast cancer,Restaging/response post therapy,Recommended in Select Cases,FDG PET/CT is recommended in select cases for assessment of response to therapy in patients whose disease is not well demonstrated on conventional imaging.,"• Clinical notes detailing the patient's breast cancer diagnosis and treatment history  
+• Documentation of conventional imaging results showing insufficient disease assessment  
+• Justification for the use of 18F-FDG PET in this specific case  
+• Any relevant pathology reports or lab results supporting the request"
+18F-FDG PET,Breast cancer,Restaging/response post therapy,Recommended in Select Cases,FDG PET/CT is recommended in select cases for differentiation of treatment-induced brachial plexopathy from tumour infiltration in symptomatic patients with an equivocal or normal MRI scan.,"• Clinical notes detailing symptoms and treatment history  
+• MRI results indicating equivocal or normal findings  
+• Justification for the need for FDG PET/CT in the context of brachial plexopathy vs. tumor infiltration  
+• Any previous imaging studies relevant to the current diagnosis and treatment response"
+18F-FDG PET,Breast cancer,Restaging/response post therapy,May be Considered,"For early evaluation of response to neoadjuvant therapy, particularly in triple negative or Her2+ disease. Baseline FDG PET-CT is recommended.","• Confirm diagnosis of breast cancer and subtype (triple negative or Her2+).  
+• Provide documentation of prior therapy and response to treatment.  
+• Include baseline FDG PET-CT results for comparison.  
+• Justify the need for early evaluation of response to neoadjuvant therapy."
+18F-FDG PET,Breast cancer,Suspected recurrence,Recommended,"FDG PET/CT is recommended in assessment of suspected recurrent disease (clinically/radiological/tumour markers/surrogate tumour markers). For restaging of patients with confirmed locoregional recurrence or clinical suspicion of relapsed disease (e.g. chest wall tenderness, elevated tumour markers and so on) equivocal on standard imaging. Elevated CA-125, CEA or CA 15-3 markers.","• Confirm diagnosis of breast cancer and document clinical suspicion of recurrence.  
+• Provide evidence of elevated tumor markers (e.g., CA-125, CEA, CA 15-3).  
+• Include results from standard imaging that are inconclusive or equivocal.  
+• Document any relevant clinical symptoms (e.g., chest wall tenderness)."
+18F-FDG PET,Breast cancer,Surveillance,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Breast cancer,Radiotherapy planning,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Breast cancer,Any setting,Recommended,Replacing standard restaging imaging studies in patients with proven or suspected allergy to CT or MRI contrast agents.,"• Patient's medical history indicating breast cancer diagnosis  
+• Documentation of allergy to CT or MRI contrast agents  
+• Previous imaging studies and their results  
+• Justification for the use of 18F-FDG PET in lieu of standard imaging"
+18F-FDG PET,Hodgkin’s lymphoma (HL),Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Hodgkin’s lymphoma (HL),Diagnosis,May be Considered,FDG PET/CT may be considered to identify amenable biopsy sites if these are not clinically apparent in a patient with suspected lymphoma.,"• Confirm the diagnosis of Hodgkin’s lymphoma (HL) with supporting clinical documentation.  
+• Provide evidence of suspected lymphoma with details on clinical findings.  
+• Include previous imaging studies and their results, if applicable.  
+• Document the rationale for the need to identify biopsy sites."
+18F-FDG PET,Hodgkin’s lymphoma (HL),Staging,Recommended,FDG PET/CT is recommended for routine staging (including marrow staging) of HL.,"• Confirm the diagnosis of Hodgkin’s lymphoma (HL) with supporting medical records.  
+• Document the indication for staging and any relevant clinical findings.  
+• Include previous imaging results, if applicable, to support the need for the 18F-FDG PET scan.  
+• Ensure the request aligns with the policy criteria for routine staging of HL."
+18F-FDG PET,Hodgkin’s lymphoma (HL),Staging,Recommended,"If contrast-enhanced CT (ceCT) is used as part of staging, this should ideally occur in a single visit, in combination with PET/CT (i.e., cePET/CT), only if it has not already been performed.","• Confirm diagnosis of Hodgkin’s lymphoma (HL) with supporting clinical documentation.  
+• Verify that a contrast-enhanced CT (ceCT) has not been previously performed.  
+• Document the indication for staging and the recommendation for 18F-FDG PET.  
+• Ensure that the request for cePET/CT is for a single visit, if applicable."
+18F-FDG PET,Hodgkin’s lymphoma (HL),Early response assessment,May be Considered,The use of interim PET/CT to detect early treatment response in HL may be considered.,"• Confirm diagnosis of Hodgkin’s lymphoma (HL) with supporting medical records.  
+• Document the rationale for early response assessment using 18F-FDG PET.  
+• Include previous imaging results and treatment history.  
+• Obtain physician's order and any relevant clinical notes."
+18F-FDG PET,Hodgkin’s lymphoma (HL),Early response assessment,May be Considered,"FDG PET/CT may be considered for interim response assessment of patients with HD after two cycles of chemotherapy to exclude progression. If there is complete metabolic response (CMR) (score 1 or 2 using Deauville criteria), there is no requirement for an end-of-treatment response scan.","• Confirm diagnosis of Hodgkin’s lymphoma (HL) with supporting medical records.  
+• Document completion of two cycles of chemotherapy prior to the PET scan.  
+• Include results of the Deauville criteria assessment for metabolic response.  
+• Ensure referral for the imaging request is completed and submitted."
+18F-FDG PET,Hodgkin’s lymphoma (HL),Restaging/response post therapy,Recommended,FDG PET/CT guidelines for restaging of biopsy-confirmed recurrence are similar to those for staging above.,"• Confirm diagnosis of Hodgkin’s lymphoma with biopsy results.  
+• Provide documentation of previous therapy and treatment response.  
+• Include clinical rationale for restaging with 18F-FDG PET.  
+• Ensure compliance with FDG PET/CT guidelines for restaging."
+18F-FDG PET,Hodgkin’s lymphoma (HL),Restaging/response post therapy,Recommended,FDG PET/CT at completion of therapy is recommended in HL as the preferred restaging method and is prognostic of treatment success and subsequent survival (assessment should be made using Deauville criteria).,"• Confirm diagnosis of Hodgkin’s lymphoma (HL) with supporting clinical documentation.  
+• Provide details of previous therapy and treatment response.  
+• Include the request for 18F-FDG PET scan with indication for restaging.  
+• Document assessment using Deauville criteria for treatment response evaluation."
+18F-FDG PET,Hodgkin’s lymphoma (HL),Restaging/response post therapy,Recommended,FDG PET/CT is recommended at completion of salvage therapy in primary resistant HL and relapsed classic HL as the preferred restaging method. The achievement of PET negativity following salvage is a good prognostic indicator for outcome following autologous stem cell transplant (ASCT) in HL. Residual FDG-positive disease after ASCT is a poor prognostic factor.,"• Confirmation of diagnosis of Hodgkin’s lymphoma (HL)  
+• Documentation of previous therapy and response  
+• Evidence of completion of salvage therapy  
+• Justification for the use of 18F-FDG PET for restaging post-therapy"
+18F-FDG PET,Hodgkin’s lymphoma (HL),Restaging/response post therapy,Recommended in Select Cases,"FDG PET/CT is recommended in select cases to determine treatment response in HL, when deciding whether patients with advanced HL who have completed BEACOPP escalated require radiotherapy.","• Clinical documentation confirming diagnosis of Hodgkin’s lymphoma (HL)  
+• Treatment history, including completion of BEACOPP escalated therapy  
+• Justification for the need for FDG PET/CT to assess treatment response  
+• Evidence of clinical guidelines supporting the use of FDG PET/CT in this specific case"
+18F-FDG PET,Non-Hodgkin’s lymphoma (NHL),Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Non-Hodgkin’s lymphoma (NHL),Diagnosis,May be Considered,FDG PET/CT may be considered for identifying amenable biopsy sites if not clinically apparent in a patient with suspected lymphoma.,"• Confirm the diagnosis of Non-Hodgkin’s lymphoma (NHL) with supporting clinical documentation.  
+• Provide clinical notes detailing the need for biopsy site identification.  
+• Include any previous imaging results that support the request for 18F-FDG PET.  
+• Document the rationale for the imaging request based on clinical guidelines."
+18F-FDG PET,Non-Hodgkin’s lymphoma (NHL),Staging,Recommended,"FDG PET/CT is recommended for routine staging of FDG-avid nodal lymphomas (e.g., diffuse large B-cell; follicular; mantle-cell; Burkitt’s; nodal marginal zone; lymphoblastic; anaplastic large T-cell; natural-killer/T-cell; angioimmunoblastic T-cell; peripheral T-cell).","• Confirm diagnosis of Non-Hodgkin’s lymphoma (NHL) with supporting medical records.  
+• Document indication for staging and rationale for the use of 18F-FDG PET.  
+• Ensure prior imaging studies are included for comparison, if applicable.  
+• Verify that the request aligns with the recommended criteria for FDG PET/CT in staging."
+18F-FDG PET,Non-Hodgkin’s lymphoma (NHL),Staging,Recommended,FDG PET/CT is recommended for routine staging of primary extranodal diffuse large B-cell lymphoma (DLBCL).,"• Confirm the diagnosis of Non-Hodgkin’s lymphoma (NHL) and specify the subtype (e.g., DLBCL).  
+• Document the indication for staging and the clinical rationale for the 18F-FDG PET scan.  
+• Include any previous imaging results or treatment history relevant to the staging process.  
+• Ensure the request is submitted with supporting clinical notes from the referring physician."
+18F-FDG PET,Non-Hodgkin’s lymphoma (NHL),Staging,Recommended,To exclude systemic involvement in skin lymphomas and exclude large cell transformation in mycosis fungoides.,"• Confirm diagnosis of Non-Hodgkin’s lymphoma (NHL) with pathology report.  
+• Document indication for staging and rationale for 18F-FDG PET scan.  
+• Include previous imaging results to support the need for exclusion of systemic involvement.  
+• Provide clinical notes detailing symptoms and treatment history related to skin lymphomas or mycosis fungoides."
+18F-FDG PET,Non-Hodgkin’s lymphoma (NHL),Staging,Not Recommended,"FDG PET/CT is not recommended for routine staging of non-FDG-avid nodal lymphomas (e.g., lymphoplasmacytic lymphoma, Waldenström’s macroglobulinaemia, chronic lymphocytic leukaemia/small lymphocytic).","1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Non-Hodgkin’s lymphoma (NHL),Staging,May be Considered,FDG PET/CT may be considered for staging of primary cutaneous NHLs except for stage IA disease and in lymphomatoid papulosis. FDG PET may have poor sensitivity for cutaneous lesions in these disorders and a higher rate of false negatives in detecting involved lymph nodes.,"• Confirm diagnosis of Non-Hodgkin’s lymphoma (NHL) and staging indication  
+• Document the specific type of NHL (e.g., primary cutaneous NHL) and stage  
+• Provide clinical rationale for the use of FDG PET/CT in staging, addressing exceptions for stage IA and lymphomatoid papulosis  
+• Include any previous imaging results and their interpretations to support the need for FDG PET/CT"
+18F-FDG PET,Non-Hodgkin’s lymphoma (NHL),Staging,Not Recommended,FDG PET/CT is not recommended for staging of mucosa-associated lymphoid tissue (MALT) marginal zone lymphoma or enteropathy-type T-cell lymphoma.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Non-Hodgkin’s lymphoma (NHL),Staging,May be Considered,FDG PET/CT may be considered in primary CNS lymphoma to exclude occult systemic lymphoma.,"• Confirm diagnosis of Non-Hodgkin’s lymphoma (NHL) with supporting pathology report.  
+• Document indication for staging and rationale for FDG PET/CT use.  
+• Include previous imaging studies to assess for occult systemic lymphoma.  
+• Obtain physician's order and any relevant clinical notes supporting the request."
+18F-FDG PET,Non-Hodgkin’s lymphoma (NHL),Staging,Not Recommended,"If contrast-enhanced CT (ceCT) is used as part of staging, this should ideally occur in a single visit, in combination with PET/CT (i.e., cePET/CT), only if it has not already been performed.","1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Non-Hodgkin’s lymphoma (NHL),Early response assessment,May be Considered,FDG PET/CT may be considered for assessment of response to initial therapy in NHL. There is as yet insufficient evidence to endorse the routine use of interim PET/CT in NHL to determine response to initial treatment.,"• Clinical documentation supporting the diagnosis of Non-Hodgkin’s lymphoma (NHL)  
+• Evidence of initial therapy administered and response to treatment  
+• Justification for the need for early response assessment using 18F-FDG PET  
+• Any relevant prior imaging results to compare with the requested scan"
+18F-FDG PET,Non-Hodgkin’s lymphoma (NHL),Restaging/response post therapy,Recommended,FDG PET/CT guidelines for restaging of biopsy-confirmed recurrence are similar to those for staging above.,"• Confirm diagnosis of Non-Hodgkin’s lymphoma (NHL) with biopsy results.  
+• Provide documentation of previous therapy and response to treatment.  
+• Include FDG PET/CT guidelines relevant to restaging for NHL.  
+• Attach clinical notes supporting the need for restaging imaging."
+18F-FDG PET,Non-Hodgkin’s lymphoma (NHL),Restaging/response post therapy,Recommended,FDG PET-CT is recommended for remission assessment in FDG-avid nodal NHL lymphoma and primary extranodal DLBCL after completion of therapy (assessment should be made using Deauville criteria).,"• Confirm diagnosis of Non-Hodgkin’s lymphoma (NHL) with supporting pathology report.  
+• Document completion of therapy and date of last treatment.  
+• Provide clinical notes indicating the need for restaging/response assessment.  
+• Include Deauville criteria assessment for remission evaluation."
+18F-FDG PET,Non-Hodgkin’s lymphoma (NHL),Restaging/response post therapy,Recommended,In cases where there is a high index of clinical suspicion for high grade transformation to identify a suitable biopsy site in low grade lymphoma. Re-biopsy is not required prior to immunochemotherapy based on standardised uptake value (SUV) alone.,"• Clinical notes detailing the diagnosis of Non-Hodgkin’s lymphoma and treatment history  
+• Evidence of high index of clinical suspicion for high grade transformation  
+• Justification for the need for 18F-FDG PET scan for restaging/response evaluation  
+• Confirmation that re-biopsy is not required prior to immunochemotherapy based on SUV findings"
+18F-FDG PET,Non-Hodgkin’s lymphoma (NHL),Restaging/response post therapy,Recommended,"Response assessment using Deauville criteria and Lugano classification.1,4-8,12-24 Semi quantitative evaluation should be performed using iterative reconstruction rather than advanced reconstructions employing point spread function compensation or penalised likelihood reconstruction","• Confirm diagnosis of Non-Hodgkin’s lymphoma (NHL) with supporting medical records.  
+• Document prior therapy details and response to treatment.  
+• Include assessment using Deauville criteria and Lugano classification.  
+• Ensure imaging report specifies semi-quantitative evaluation method used."
+18F-FDG PET,Non-Hodgkin’s lymphoma (NHL),Restaging/response post therapy,Recommended in Select Cases,"FDG PET/CT is recommended in select cases for restaging of non-FDG-avid nodal lymphomas (e.g., lymphoplasmacytic lymphoma, Waldenström’s macroglobulinaemia, chronic lymphocytic leukaemia/small lymphocytic), if there is suspicion of aggressive transformation.","• Clinical documentation supporting the diagnosis of Non-Hodgkin’s lymphoma (NHL)  
+• Evidence of prior therapy and response to treatment  
+• Justification for the need for restaging with FDG PET/CT  
+• Documentation of suspicion for aggressive transformation in the lymphoma type"
+18F-FDG PET,Non-Hodgkin’s lymphoma (NHL),Suspected recurrence,Recommended in Select Cases,"FDG PET/CT is recommended in select cases to detect suspected relapse of FDG-avid nodal lymphoma, when no clinically apparent biopsy sites are available. Imaging features suggestive of relapse require histological confirmation. A negative PET in this context has a high negative predictive value.","• Clinical notes detailing the suspicion of recurrence and rationale for imaging  
+• Documentation of previous imaging studies and their findings  
+• Histological confirmation of relapse if imaging features suggestive of relapse are present  
+• Justification for the absence of clinically apparent biopsy sites"
+18F-FDG PET,Non-Hodgkin’s lymphoma (NHL),Surveillance,Not Recommended,FDG PET/CT is not recommended for routine follow-up of successfully treated NHL.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Non-Hodgkin’s lymphoma (NHL),Radiotherapy planning,May be Considered,"FDG PET/CT may be considered in radiotherapy treatment planning in NHL, although there is currently insufficient evidence to support its routine use.","Error generating checklist: HTTP code 520 from API (<!DOCTYPE html>
+<!--[if lt IE 7]> <html class=""no-js ie6 oldie"" lang=""en-US""> <![endif]-->
+<!--[if IE 7]>    <html class=""no-js ie7 oldie"" lang=""en-US""> <![endif]-->
+<!--[if IE 8]>    <html class=""no-js ie8 oldie"" lang=""en-US""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class=""no-js"" lang=""en-US""> <!--<![endif]-->
+<head>
+
+
+<title>api.openai.com | 520: Web server is returning an unknown error</title>
+<meta charset=""UTF-8"" />
+<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+<meta http-equiv=""X-UA-Compatible"" content=""IE=Edge"" />
+<meta name=""robots"" content=""noindex, nofollow"" />
+<meta name=""viewport"" content=""width=device-width,initial-scale=1"" />
+<link rel=""stylesheet"" id=""cf_styles-css"" href=""/cdn-cgi/styles/main.css"" />
+
+
+</head>
+<body>
+<div id=""cf-wrapper"">
+    <div id=""cf-error-details"" class=""p-0"">
+        <header class=""mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8"">
+            <h1 class=""inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2"">
+              <span class=""inline-block"">Web server is returning an unknown error</span>
+              <span class=""code-label"">Error code 520</span>
+            </h1>
+            <div>
+               Visit <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=api.openai.com"" target=""_blank"" rel=""noopener noreferrer"">cloudflare.com</a> for more information.
+            </div>
+            <div class=""mt-3"">2025-06-01 12:29:50 UTC</div>
+        </header>
+        <div class=""my-8 bg-gradient-gray"">
+            <div class=""w-240 lg:w-full mx-auto"">
+                <div class=""clearfix md:px-8"">
+                  
+<div id=""cf-browser-status"" class="" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    
+    <span class=""cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    
+  </div>
+  <span class=""md:block w-full truncate"">You</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    
+    Browser
+    
+  </h3>
+  <span class=""leading-1.3 text-2xl text-green-success"">Working</span>
+</div>
+
+<div id=""cf-cloudflare-status"" class="" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=api.openai.com"" target=""_blank"" rel=""noopener noreferrer"">
+    <span class=""cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    </a>
+  </div>
+  <span class=""md:block w-full truncate"">Johannesburg</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=api.openai.com"" target=""_blank"" rel=""noopener noreferrer"">
+    Cloudflare
+    </a>
+  </h3>
+  <span class=""leading-1.3 text-2xl text-green-success"">Working</span>
+</div>
+
+<div id=""cf-host-status"" class=""cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    
+    <span class=""cf-icon-server block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    
+  </div>
+  <span class=""md:block w-full truncate"">api.openai.com</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    
+    Host
+    
+  </h3>
+  <span class=""leading-1.3 text-2xl text-red-error"">Error</span>
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class=""w-240 lg:w-full mx-auto mb-8 lg:px-8"">
+            <div class=""clearfix"">
+                <div class=""w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed"">
+                    <h2 class=""text-3xl font-normal leading-1.3 mb-4"">What happened?</h2>
+                    <p>There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.</p>
+                </div>
+                <div class=""w-1/2 md:w-full float-left leading-relaxed"">
+                    <h2 class=""text-3xl font-normal leading-1.3 mb-4"">What can I do?</h2>
+                          <h3 class=""text-15 font-semibold mb-2"">If you are a visitor of this website:</h3>
+      <p class=""mb-6"">Please try again in a few minutes.</p>
+
+      <h3 class=""text-15 font-semibold mb-2"">If you are the owner of this website:</h3>
+      <p><span>There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team.  Please include the Ray ID (which is at the bottom of this error page).</span> <a rel=""noopener noreferrer"" href=""https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/"">Additional troubleshooting resources</a>.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class=""cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300"">
+  <p class=""text-13"">
+    <span class=""cf-footer-item sm:block sm:mb-1"">Cloudflare Ray ID: <strong class=""font-semibold"">948eb7064bd31689</strong></span>
+    <span class=""cf-footer-separator sm:hidden"">&bull;</span>
+    <span id=""cf-footer-item-ip"" class=""cf-footer-item hidden sm:block sm:mb-1"">
+      Your IP:
+      <button type=""button"" id=""cf-footer-ip-reveal"" class=""cf-footer-ip-reveal-btn"">Click to reveal</button>
+      <span class=""hidden"" id=""cf-footer-ip"">102.36.18.97</span>
+      <span class=""cf-footer-separator sm:hidden"">&bull;</span>
+    </span>
+    <span class=""cf-footer-item sm:block sm:mb-1""><span>Performance &amp; security by</span> <a rel=""noopener noreferrer"" href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=api.openai.com"" id=""brand_link"" target=""_blank"">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById(""cf-footer-item-ip""),c=a.getElementById(""cf-footer-ip-reveal"");b&&""classList""in b&&(b.classList.remove(""hidden""),c.addEventListener(""click"",function(){c.classList.add(""hidden"");a.getElementById(""cf-footer-ip"").classList.remove(""hidden"")}))}var a=document;document.addEventListener&&a.addEventListener(""DOMContentLoaded"",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+)"
+18F-FDG PET,Langerhans cell histiocytosis (LCH),Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Langerhans cell histiocytosis (LCH),Diagnosis,Not Recommended,FDG PET/CT is not recommended for diagnosis of LCH.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Langerhans cell histiocytosis (LCH),Staging,May be Considered,FDG PET/CT may be considered for determining extent of disease at baseline.,"• Confirm diagnosis of Langerhans cell histiocytosis (LCH) with supporting medical records.  
+• Provide clinical rationale for staging and necessity of 18F-FDG PET scan.  
+• Include any previous imaging results relevant to disease extent.  
+• Document physician's order and any relevant treatment plans."
+18F-FDG PET,Langerhans cell histiocytosis (LCH),Restaging/response post therapy,May be Considered,"FDG PET/CT may be considered to assess response to treatment. When used for this indication, a baseline scan is recommended.","• Confirm diagnosis of Langerhans cell histiocytosis (LCH) with supporting documentation.  
+• Provide details of previous treatments and response to therapy.  
+• Include a copy of the baseline FDG PET/CT scan report.  
+• Document the clinical rationale for restaging/response assessment."
+18F-FDG PET,Langerhans cell histiocytosis (LCH),Suspected recurrence,May be Considered,FDG PET/CT may be considered for detecting suspected recurrence of disease.,"• Clinical notes detailing the diagnosis of Langerhans cell histiocytosis and the rationale for suspected recurrence.  
+• Previous imaging results to compare and support the need for the 18F-FDG PET scan.  
+• Documentation of any prior treatments and their outcomes related to LCH.  
+• Referral or order from a qualified physician for the imaging study."
+18F-FDG PET,Langerhans cell histiocytosis (LCH),Surveillance,May be Considered,FDG PET/CT may be considered for routine surveillance. An optimal strategy has not been determined; radiation dosimetry is especially important in paediatric patients.,"• Clinical documentation supporting the diagnosis of Langerhans cell histiocytosis (LCH)  
+• Justification for the need for 18F-FDG PET for routine surveillance  
+• Evidence of previous imaging studies and their results  
+• Consideration of radiation dosimetry, particularly for pediatric patients"
+18F-FDG PET,Langerhans cell histiocytosis (LCH),Radiotherapy planning,Not Recommended,FDG PET/CT is not recommended for radiotherapy planning.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Non-Langerhans cell histiocytoses (NLCH),Extent of disease and monitoring,Recommended,"FDG PET/CT is recommended to determine the extent of disease, and for monitoring treatment response and surveillance in Erdheim-Chester disease.","• Clinical documentation supporting the diagnosis of Non-Langerhans cell histiocytoses (NLCH)  
+• Justification for the use of 18F-FDG PET for extent of disease and monitoring  
+• Previous imaging results, if available, to compare treatment response  
+• Referral or order from a qualified physician for the imaging request"
+18F-FDG PET,Non-Langerhans cell histiocytoses (NLCH),Extent of disease and monitoring,May be Considered,"As rare disorders, no clinical guidelines exist for other non-Langerhans cell histiocytic disorders (e.g., Rosai-Dorfman disease, haemophagocytic lymphohistiocytosis, Kikuchi disease). Utility of FDG PET/CT has been described in many of these conditions. Because of the inflammatory nature of lesions in histiocytic disorders, sites of disease are expected to be FDG-avid. FDG PET/CT may be considered for the same indications as listed under LCH, where the results of the scan will affect management.","• Clinical notes detailing the diagnosis of Non-Langerhans cell histiocytoses (NLCH)  
+• Justification for the use of 18F-FDG PET in assessing extent of disease and monitoring  
+• Previous imaging studies and results, if available  
+• Documentation of how FDG PET/CT results will impact management decisions"
+18F-FDG PET,Other lymphoproliferative disorders,Staging and restaging of post-transplant lymphoproliferative disorder,May be Considered,FDG PET/CT may be considered in staging and restaging of post-transplant lymphoproliferative disorder.,"• Confirm the diagnosis of post-transplant lymphoproliferative disorder with supporting medical records.  
+• Provide clinical rationale for the need for 18F-FDG PET scan for staging/restaging.  
+• Include previous imaging results and treatment history.  
+• Document physician's order and any relevant notes regarding the imaging request."
+18F-FDG PET,Other lymphoproliferative disorders,Staging and restaging of other lymphoproliferative disorders,May be Considered,"FDG PET/CT may be considered in staging and restaging of other lymphoproliferative disorders, such as lymphomatoid granulomatosis and Castleman disease. As rare disorders, evidence for the utility of FDG PET/CT in these conditions is limited.","• Clinical documentation supporting the diagnosis of other lymphoproliferative disorders  
+• Justification for the use of 18F-FDG PET in staging or restaging  
+• Any previous imaging results relevant to the condition  
+• Evidence of treatment history and response to prior therapies"
+18F-FDG PET,Multiple myeloma,Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Multiple myeloma,Diagnosis,May be Considered,FDG PET/CT may be considered under certain circumstances when standard workup is ambiguous or inconclusive. FDG PET/CT may be considered to distinguish between patients with definite active myeloma (FDG-positive) and patients with monoclonal gammopathy of unknown significance or smouldering disease (both of which are FDG-negative).,"• Confirm the diagnosis of multiple myeloma with supporting clinical documentation.  
+• Provide evidence of ambiguous or inconclusive standard workup results.  
+• Include details on the patient's clinical status to justify the need for FDG PET/CT.  
+• Document any previous imaging studies and their findings related to the diagnosis."
+18F-FDG PET,Multiple myeloma,Staging,Recommended in Select Cases,"FDG PET/CT is recommended in select cases for patients with apparently solitary plasmacytoma to exclude early bone marrow involvement, but cannot be used as a substitute for conventional imaging methods or to distinguish between smouldering and active myeloma","• Clinical documentation supporting the diagnosis of multiple myeloma  
+• Evidence of solitary plasmacytoma and need for staging  
+• Justification for the use of 18F-FDG PET over conventional imaging methods  
+• Any previous imaging results relevant to the case"
+18F-FDG PET,Multiple myeloma,Staging,May be Considered,FDG PET/CT may be considered to exclude extensive or extramedullary disease if this will impact therapeutic decisions.,"• Confirm diagnosis of multiple myeloma with supporting medical records.  
+• Document staging rationale and how it impacts therapeutic decisions.  
+• Include previous imaging results to assess the need for FDG PET/CT.  
+• Provide clinical notes detailing symptoms or findings suggestive of extensive or extramedullary disease."
+18F-FDG PET,Multiple myeloma,Restaging/response post therapy,Not Recommended,FDG PET/CT is not recommended for restaging of multiple myeloma after definitive therapy.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Multiple myeloma,Restaging/response post therapy,May be Considered,"FDG PET/CT may be considered to assess treatment response in multiple myeloma. If used in this context, a baseline PET/CT is recommended.","• Document the diagnosis of multiple myeloma and the indication for restaging/response post therapy.  
+• Include the results of the baseline PET/CT if available.  
+• Provide clinical rationale for the use of 18F-FDG PET in assessing treatment response.  
+• Ensure all relevant patient history and treatment details are included in the request."
+18F-FDG PET,Multiple myeloma,Suspected recurrence,Recommended in Select Cases,FDG PET/CT is recommended in select cases for suspected relapse in patients with non-secretory myeloma or predominantly extramedullary disease.,"• Confirm diagnosis of multiple myeloma and document clinical history.  
+• Provide evidence of suspected recurrence, including relevant imaging or lab results.  
+• Ensure documentation supports the indication of non-secretory myeloma or predominantly extramedullary disease.  
+• Include any previous treatment history and response to therapy."
+18F-FDG PET,Multiple myeloma,Surveillance,May be Considered,FDG PET/CT may be considered for routine follow-up of multiple myeloma as clinically indicated.,"• Confirm the diagnosis of multiple myeloma with supporting medical records.  
+• Document the clinical rationale for surveillance imaging.  
+• Include previous imaging results and treatment history.  
+• Ensure the request aligns with the criteria for FDG PET/CT use in follow-up care."
+18F-FDG PET,Multiple myeloma,Radiotherapy planning,Not Recommended,FDG PET/CT is not recommended in radiotherapy planning of plasmacytoma or multiple myeloma (insufficient evidence).,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Malignancy of undefined primary origin (MUO),Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Provisional carcinoma of unknown primary (CUP),Screening,Not Recommended,FDG PET/CT is not recommended in the routine investigation of these patients.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Provisional carcinoma of unknown primary (CUP),Diagnosis,Not Recommended,FDG PET/CT is not recommended in the routine investigation of MUO patients.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Provisional carcinoma of unknown primary (CUP),Diagnosis,Recommended in Select Cases,"FDG PET/CT is recommended in select cases in patients presenting with cervical lymphadenopathy with no primary tumour identified on ear, nose, and throat panendoscopy if radical treatment is considered to be an option.","• Confirm diagnosis of provisional carcinoma of unknown primary (CUP)  
+• Document results of ear, nose, and throat panendoscopy  
+• Provide clinical rationale for considering radical treatment  
+• Include any relevant imaging or pathology reports supporting the case"
+18F-FDG PET,Provisional carcinoma of unknown primary (CUP),Staging,Recommended in Select Cases,"FDG PET/CT is recommended in select cases to detect disease amenable to local or regional therapy or when curative therapy is planned, such as in the case of extracervical presentation of a single metastatic lesion and a negative conventional work-up.","• Confirm diagnosis of provisional carcinoma of unknown primary (CUP)  
+• Document staging indication and rationale for 18F-FDG PET scan  
+• Provide evidence of negative conventional work-up results  
+• Justify the need for imaging based on potential for curative therapy or local/regional treatment options"
+18F-FDG PET,Malignancy of undefined primary origin (MUO),Restaging/response post therapy,Not Recommended,FDG PET/CT is not recommended to assess response to initial treatment.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Provisional carcinoma of unknown primary (CUP),Staging,Recommended in Select Cases,FDG PET/CT is recommended in select cases for staging when curative therapy is planned.,"• Confirm diagnosis of provisional carcinoma of unknown primary (CUP)  
+• Document intent for curative therapy  
+• Provide clinical rationale for the use of 18F-FDG PET in staging  
+• Include any relevant imaging or pathology reports supporting the case"
+18F-FDG PET,Provisional carcinoma of unknown primary (CUP),Suspected recurrence,Not Recommended,FDG PET/CT is not recommended to restage after completing therapy.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Provisional carcinoma of unknown primary (CUP),Surveillance,Not Recommended,FDG PET/CT is not recommended for surveillance.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Provisional carcinoma of unknown primary (CUP),Radiotherapy planning,Not Recommended,FDG PET/CT is not recommended for radiotherapy planning.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Likely small-cell lung cancer,Diagnosis,Recommended,FDG PET/CT is recommended if an initial CT thorax is negative.,"• Initial CT thorax report indicating negative findings  
+• Clinical notes supporting the diagnosis of likely small-cell lung cancer  
+• Justification for the need for 18F-FDG PET scan based on current guidelines  
+• Any previous imaging studies relevant to the diagnosis and treatment plan"
+18F-FDG PET,Likely thymoma,Diagnosis,Recommended,FDG PET/CT is recommended if an initial CT thorax is negative.,"• Initial CT thorax report indicating negative findings  
+• Clinical notes supporting the diagnosis of likely thymoma  
+• Justification for the use of 18F-FDG PET in this case  
+• Any previous imaging studies related to the diagnosis"
+18F-FDG PET,Likely breast carcinoma,Diagnosis,Recommended,FDG PET/CT is recommended if mammography and MRI breast are negative.,"• Confirm negative results from mammography and MRI breast  
+• Obtain clinical notes supporting the diagnosis of likely breast carcinoma  
+• Include any previous imaging reports related to breast evaluation  
+• Document the rationale for requesting the 18F-FDG PET scan"
+18F-FDG PET,Likely teratoma,Diagnosis,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Likely ovarian carcinoma,Diagnosis,May be Considered,FDG PET/CT may be considered if transvaginal ultrasound ± CT-pelvis/abdomen are negative.,"• Confirm the diagnosis of likely ovarian carcinoma with supporting clinical documentation.  
+• Obtain results of transvaginal ultrasound and CT-pelvis/abdomen indicating negative findings.  
+• Include physician's recommendation for 18F-FDG PET scan based on current clinical guidelines.  
+• Document any relevant patient history that supports the need for imaging."
+18F-FDG PET,Likely testicular tumour,Diagnosis,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Paraneoplastic neurological syndrome (PNS),No paraneoplastic antibodies detected,Recommended,"If no paraneoplastic antibodies are detected, the patient has a classic PNS, and the neurological condition is deteriorating, total-body FDG PET/CT is recommended if initial recommended investigations directed towards a likely primary site are negative.","• Confirm diagnosis of paraneoplastic neurological syndrome (PNS)  
+• Document absence of paraneoplastic antibodies  
+• Provide evidence of neurological condition deterioration  
+• Include results of initial investigations for primary site detection"
+18F-FDG PET,Paraneoplastic neurological syndrome (PNS),Screening with suspicion of malignancy,Recommended,"Because of the high negative predictive value of initial PET/CT, FDG PET/CT is recommended as part of screening in patients with PNS and paraneoplastic antibodies in whom no primary tumour has been identified at baseline, if suspicion of a malignancy remains high.","• Confirm diagnosis of paraneoplastic neurological syndrome (PNS)  
+• Document suspicion of malignancy and rationale for screening  
+• Include results of any previous imaging studies  
+• Provide evidence of paraneoplastic antibodies testing results"
+18F-FDG PET,Paraneoplastic neurological syndrome (PNS),Repeated screening with high suspicion of malignancy,May be Considered,"The repeated use of FDG PET/CT may be considered as part of screening in patients with PNS and paraneoplastic antibodies, if suspicion of malignancy remains high.","• Clinical notes detailing the diagnosis of paraneoplastic neurological syndrome (PNS)  
+• Documentation of high suspicion of malignancy, including any relevant imaging or lab results  
+• Evidence of previous FDG PET/CT scans and their findings  
+• Justification for repeated screening based on clinical guidelines and patient history"
+18F-FDG PET,Melanoma,Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Melanoma,Diagnosis,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Melanoma,Staging,Not Recommended,FDG PET/CT is not recommended in early-stage patients (AJCC stages I and II).,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Melanoma,Staging,Recommended in Select Cases,"FDG PET/CT is recommended in select cases for detection and localisation of potential extranodal metastatic lesions in initial evaluation of patients with clinically suspected advanced-stage disease (AJCC stage III and IV), and for staging of patients with known disseminated melanoma to assess extent of disease prior to treatment.","• Confirm diagnosis of melanoma and stage (AJCC stage III or IV)  
+• Document clinical suspicion of advanced-stage disease  
+• Provide previous imaging results, if available, to support staging  
+• Include physician's rationale for the necessity of FDG PET/CT in this case"
+18F-FDG PET,Melanoma,Staging,Recommended in Select Cases,"FDG PET/CT is recommended in select cases where metastasectomy is planned, to exclude disease that might make surgery inappropriate.","• Confirm the diagnosis of melanoma with pathology report.  
+• Document the planned metastasectomy and rationale for surgery.  
+• Provide clinical notes detailing the need for staging and exclusion of disease.  
+• Include any previous imaging results relevant to the case."
+18F-FDG PET,Melanoma,Restaging/response post therapy,Recommended in Select Cases,FDG PET/CT is recommended in select cases for evaluation of the extent of metastatic disease burden in recurrent disease following treatment.,"• Confirm diagnosis of melanoma and document treatment history  
+• Provide clinical rationale for the need for 18F-FDG PET scan for restaging  
+• Include any previous imaging results and their interpretations  
+• Document the extent of metastatic disease burden and symptoms related to recurrence"
+18F-FDG PET,Melanoma,Restaging/response post therapy,Recommended in Select Cases,FDG PET/CT is recommended in select cases to assess response to isolated limb infusion.,"• Confirm diagnosis of melanoma with pathology report.  
+• Provide documentation of previous therapy and treatment response.  
+• Include clinical notes justifying the need for FDG PET/CT for restaging.  
+• Ensure referral or order includes indication for isolated limb infusion assessment."
+18F-FDG PET,Melanoma,Surveillance,Not Recommended,FDG PET/CT is not recommended for routine follow-up.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Melanoma,Suspected recurrence,Recommended in Select Cases,FDG PET is recommended in select cases of suspected recurrence where symptom-guided conventional imaging is equivocal.,"• Clinical notes detailing the patient's symptoms and history of melanoma  
+• Results of previous imaging studies that are considered equivocal  
+• Justification for the use of 18F-FDG PET in this specific case  
+• Any relevant laboratory results or pathology reports supporting the suspicion of recurrence"
+18F-FDG PET,Non-small-cell lung cancer (NSCLC),Screening,Not Recommended,FDG PET/CT is not recommended for screening at-risk populations.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Non-small-cell lung cancer (NSCLC),Diagnosis,Recommended in Select Cases,"FDG PET/CT is recommended in select cases in the investigation of a solid, non-calcified SPN ≥8 mm in diameter that is suspicious for malignancy. It has a good negative predictive value in this context, which allows for radiological follow-up of low-risk patients. However, its positive predictive value is reduced in regions with high prevalence of infectious lung disease (e.g., TB); it cannot reliably distinguish between infective and malignant nodules.","• Confirm diagnosis of non-small-cell lung cancer (NSCLC) with supporting pathology report.  
+• Document the size and characteristics of the solid, non-calcified SPN ≥8 mm.  
+• Provide clinical rationale for the use of 18F-FDG PET in this specific case, highlighting suspicion for malignancy.  
+• Include any previous imaging studies and their findings to support the need for PET scan."
+18F-FDG PET,Non-small-cell lung cancer (NSCLC),Staging,Recommended in Select Cases,FDG PET/CT is recommended in select cases as part of staging for patients with potentially curable disease (on CT staging) and who are fit for definitive therapy.,"• Confirm diagnosis of non-small-cell lung cancer (NSCLC)  
+• Provide CT staging results indicating potentially curable disease  
+• Document patient's fitness for definitive therapy  
+• Include any relevant clinical notes supporting the need for FDG PET/CT in staging"
+18F-FDG PET,Non-small-cell lung cancer (NSCLC),Restaging/response post therapy,May be Considered,FDG PET/CT may be considered after induction therapy to exclude progression of disease.,"• Confirm diagnosis of non-small-cell lung cancer (NSCLC)  
+• Document induction therapy details and response  
+• Provide clinical rationale for restaging with 18F-FDG PET  
+• Include any previous imaging results for comparison"
+18F-FDG PET,Non-small-cell lung cancer (NSCLC),Restaging/response post therapy,May be Considered,"For patients with biopsy-confirmed recurrence, FDG PET/CT may be considered for restaging to assist selection of therapy.","• Confirm biopsy-confirmed recurrence of non-small-cell lung cancer (NSCLC)  
+• Document previous therapy details and response  
+• Provide clinical rationale for the need for 18F-FDG PET scan  
+• Include any relevant imaging results prior to the request"
+18F-FDG PET,Non-small-cell lung cancer (NSCLC),Restaging/response post therapy,Recommended,Assessment of response to chemotherapy and/or radiation treatment in selected patients who have had an apparently very good response on conventional imaging and surgery is being considered.,"• Clinical notes detailing the patient's diagnosis of non-small-cell lung cancer (NSCLC)  
+• Documentation of previous imaging results indicating a very good response to therapy  
+• Treatment history, including chemotherapy and/or radiation details  
+• Justification for the need for 18F-FDG PET scan in the context of surgical consideration"
+18F-FDG PET,Non-small-cell lung cancer (NSCLC),Suspected recurrence,May be Considered,FDG PET/CT may be considered when findings on follow-up CT are equivocal for neoplasm. Biopsy confirmation is necessary for positive PET findings.,"• Clinical notes indicating suspected recurrence of NSCLC  
+• Follow-up CT results showing equivocal findings  
+• Documentation of biopsy confirmation for positive PET findings  
+• Justification for the necessity of the 18F-FDG PET scan"
+18F-FDG PET,Non-small-cell lung cancer (NSCLC),Surveillance,Not Recommended,FDG PET/CT is not recommended for routine follow-up of NSCLC.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Non-small-cell lung cancer (NSCLC),Radiotherapy planning,May be Considered,"FDG PET/CT may be considered to assist radiotherapy planning, especially when there is significant atelectasis or when intravenous (IV) contrast is contraindicated.","• Confirm diagnosis of non-small-cell lung cancer (NSCLC) with supporting medical records.  
+• Document indication for radiotherapy planning and rationale for the use of FDG PET/CT.  
+• Include details on significant atelectasis or contraindications for IV contrast.  
+• Obtain any previous imaging studies relevant to the current request."
+18F-FDG PET,Small-cell lung cancer (SCLC),Screening,Not Recommended,FDG PET/CT is not recommended for screening populations at risk.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Small-cell lung cancer (SCLC),Diagnosis,Recommended in Select Cases,"FDG PET/CT is recommended in select cases for the investigation of a solid, non-calcified SPN ≥8 mm in diameter that is suspicious for malignancy. It has a good negative predictive value in this context, which allows for radiological follow-up of low-risk patients. However, its positive predictive value is reduced in regions with high prevalence of infectious lung disease (e.g., TB); it cannot reliably distinguish between infective and malignant nodules.","• Confirm the diagnosis of small-cell lung cancer (SCLC) with supporting pathology report.  
+• Document the size and characteristics of the solid, non-calcified SPN ≥8 mm.  
+• Provide clinical rationale for the use of 18F-FDG PET in this specific case, highlighting suspicion for malignancy.  
+• Include any previous imaging studies and their findings to support the need for the PET scan."
+18F-FDG PET,Small-cell lung cancer (SCLC),Staging,Recommended in Select Cases,"FDG PET/CT is recommended in select cases as part of staging for patients with suspected limited-stage disease, who are potential candidates for radical management and in whom the detection of occult disease would alter management.","• Confirm diagnosis of small-cell lung cancer (SCLC)  
+• Document staging indication and rationale for 18F-FDG PET scan  
+• Provide evidence of potential candidacy for radical management  
+• Include any previous imaging results that support the need for FDG PET/CT"
+18F-FDG PET,Small-cell lung cancer (SCLC),Restaging/response post therapy,Not Recommended,FDG PET/CT is not recommended for response assessment in SCLC.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Small-cell lung cancer (SCLC),Restaging/response post therapy,Not Recommended,PET/CT is not recommended for restaging of confirmed recurrence.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Small-cell lung cancer (SCLC),Surveillance,Not Recommended,FDG PET/CT is not recommended for routine follow-up of SCLC.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Small-cell lung cancer (SCLC),Radiotherapy planning,May be Considered,FDG PET/CT may be considered to assist radiotherapy planning.,"• Confirm the diagnosis of small-cell lung cancer (SCLC) with supporting pathology reports.  
+• Document the indication for radiotherapy planning and any previous treatment history.  
+• Include clinical notes justifying the need for 18F-FDG PET in the context of radiotherapy planning.  
+• Ensure all relevant imaging studies and reports are attached for review."
+18F-FDG PET,Primary pleural malignancy/mesothelioma,Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Primary pleural malignancy/mesothelioma,Diagnosis,Not Recommended,FDG PET/CT is not recommended for routine diagnosis of mesothelioma.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Primary pleural malignancy/mesothelioma,Diagnosis,May be Considered,"FDG PET/CT may be considered in patients with suspected primary pleural malignancy, in whom conventional is imaging and pleural biopsy are inconclusive, in order to guide choice of biopsy site. In these cases, PET/CT should be performed prior to talc pleurodesis.","• Confirm diagnosis of primary pleural malignancy/mesothelioma with supporting documentation.  
+• Provide evidence of inconclusive conventional imaging and pleural biopsy results.  
+• Document the need for FDG PET/CT to guide biopsy site selection prior to talc pleurodesis.  
+• Ensure all relevant clinical notes and imaging reports are included in the request."
+18F-FDG PET,Primary pleural malignancy/mesothelioma,Diagnosis,May be Considered,To guide biopsy in patients with suspected pleural malignancy with pleural thickening.  FDG is less likely to be useful in patients presenting with a pleural effusion only or with a history of previous pleurodesis.,"• Confirm diagnosis of primary pleural malignancy/mesothelioma with supporting clinical documentation.  
+• Provide imaging reports showing pleural thickening to justify the need for biopsy guidance.  
+• Include history of any previous pleurodesis or pleural effusion to assess appropriateness of FDG PET use.  
+• Document physician's recommendation for the imaging request and rationale for its necessity."
+18F-FDG PET,Primary pleural malignancy/mesothelioma,Staging,Recommended in Select Cases,"FDG PET/CT is recommended in select cases for staging of patients being considered for surgery as part of a curative strategy, who have clinical stage I - III disease with epithelial or mixed histology. In these patients, PET/CT should be performed before any pleurodesis.","• Clinical documentation confirming diagnosis of primary pleural malignancy/mesothelioma  
+• Staging information indicating clinical stage I - III disease  
+• Histology report confirming epithelial or mixed histology  
+• Evidence of surgical consideration as part of a curative strategy"
+18F-FDG PET,Primary pleural malignancy/mesothelioma,Restaging/response post therapy,Recommended,Response assessment to therapy where there is uncertainty on conventional imaging.,"• Clinical notes detailing the diagnosis of primary pleural malignancy/mesothelioma  
+• Documentation of previous imaging results indicating uncertainty in response assessment  
+• Summary of therapy received and rationale for restaging  
+• Justification for the use of 18F-FDG PET in the context of response assessment"
+18F-FDG PET,Primary pleural malignancy/mesothelioma,Suspected recurrence,May be Considered,FDG PET/CT may be considered to detect suspected recurrence in mesothelioma.,"• Confirm diagnosis of primary pleural malignancy/mesothelioma with pathology report.  
+• Document clinical findings supporting suspicion of recurrence.  
+• Provide previous imaging results for comparison.  
+• Include physician's note outlining rationale for 18F-FDG PET scan."
+18F-FDG PET,Primary pleural malignancy/mesothelioma,Surveillance,Not Recommended,FDG PET/CT is not recommended for routine follow-up after definitive therapy.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Primary pleural malignancy/mesothelioma,Radiotherapy planning,May be Considered,FDG PET/CT may be considered in radiotherapy planning.,"• Confirm diagnosis of primary pleural malignancy/mesothelioma with supporting pathology report.  
+• Document indication for radiotherapy planning and rationale for imaging request.  
+• Include previous imaging results and treatment history relevant to the case.  
+• Ensure referral from a qualified specialist (e.g., oncologist or radiologist)."
+18F-FDG PET, Oesophageal and oesophago-gastric junction cancers,Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET, Oesophageal and oesophago-gastric junction cancers,Diagnosis,Not Recommended,FDG PET/CT is not recommended for the diagnosis of oesophageal cancer.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET, Oesophageal and oesophago-gastric junction cancers,Staging,Recommended in Select Cases,FDG PET/CT is recommended in select cases for staging in patients being considered for radical therapy.,"• Confirm diagnosis of oesophageal and oesophago-gastric junction cancers  
+• Document indication for staging and consideration for radical therapy  
+• Provide clinical rationale for the use of 18F-FDG PET in this specific case  
+• Include any previous imaging results relevant to staging and treatment planning"
+18F-FDG PET, Oesophageal and oesophago-gastric junction cancers,Restaging/response post-therapy,Recommended in Select Cases,FDG PET/CT is recommended in select cases for restaging after neoadjuvant treatment in patients being considered for radical therapy.,"• Confirm diagnosis of oesophageal or oesophago-gastric junction cancers  
+• Document completion of neoadjuvant treatment  
+• Provide clinical rationale for restaging and consideration for radical therapy  
+• Include any relevant imaging or pathology reports supporting the request"
+18F-FDG PET, Oesophageal and oesophago-gastric junction cancers,Suspected recurrence,Recommended in Select Cases,FDG PET/CT is recommended in select cases to detect recurrence when other imaging is negative or equivocal.,"• Confirm the diagnosis of oesophageal and oesophago-gastric junction cancers.  
+• Document the indication of suspected recurrence and previous imaging results.  
+• Provide clinical rationale for the use of 18F-FDG PET in this specific case.  
+• Ensure all relevant medical records and imaging reports are included in the request."
+18F-FDG PET, Oesophageal and oesophago-gastric junction cancers,Surveillance,May be Considered,FDG PET/CT may be considered for routine follow-up of patients given the high incidence of recurrence.,"• Confirm diagnosis of oesophageal and oesophago-gastric junction cancers  
+• Document indication for surveillance and rationale for imaging  
+• Include previous imaging results and treatment history  
+• Provide clinical notes supporting the need for FDG PET/CT in follow-up"
+18F-FDG PET, Oesophageal and oesophago-gastric junction cancers,Radiotherapy planning,Recommended,FDG PET/CT may be considered for radiotherapy planning as several studies have shown a good correlation between FDG-PET and pathology-based tumour length.,"• Obtain the imaging request form specifying the 18F-FDG PET scan.  
+• Include the diagnosis of oesophageal and oesophago-gastric junction cancers.  
+• Document the indication for radiotherapy planning.  
+• Provide relevant studies supporting the use of FDG-PET for radiotherapy planning."
+18F-FDG PET, Oesophageal and oesophago-gastric junction cancers,Notes:,,"FDG PET-CT outperforms morphological imaging for the detection of distant metastases in oesophageal cancer; **FDG PET-CT performs well and better than morphological imaging, in detecting regional or distant lymph node involvement;***FDG PET-CT evaluation could be reserved for patients with no evidence of M1 disease on CT;","• Confirm the diagnosis of oesophageal and oesophago-gastric junction cancers with supporting pathology reports.  
+• Provide evidence of no M1 disease on CT imaging.  
+• Include clinical rationale for the use of FDG PET-CT based on its superiority in detecting metastases and lymph node involvement.  
+• Document any previous imaging studies and their results for comparison."
+18F-FDG PET,Gastric cancer,Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Gastric cancer,Diagnosis,Not Recommended,FDG PET/CT is not recommended for the diagnosis of gastric cancer. Diagnosis is established by endoscopy and biopsy.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Gastric cancer,Staging,May be Considered,FDG PET/CT may be considered for staging owing to an increased detection of nodal and distant metastatic disease.,"• Confirm the diagnosis of gastric cancer with pathology report.  
+• Document the indication for staging and rationale for PET scan.  
+• Provide previous imaging studies and their results for comparison.  
+• Include any relevant clinical notes supporting the need for increased detection of metastatic disease."
+18F-FDG PET,Gastric cancer,Staging,May be Considered,For staging and re-staging of confirmed gastric cancer if there is a curative treatment intent.,"• Confirmed diagnosis of gastric cancer with pathology report  
+• Documentation of curative treatment intent  
+• Previous imaging studies for comparison (if applicable)  
+• Clinical notes supporting the need for staging or re-staging"
+18F-FDG PET,Gastric cancer,Staging,Recommended in Select Cases,To identify primary gastric tumours in case of equivocal findings on conventional imaging for patients which are eligible for radical treatment.,"• Clinical notes detailing the diagnosis of gastric cancer and staging indication  
+• Results of conventional imaging studies showing equivocal findings  
+• Documentation of the patient's eligibility for radical treatment  
+• Justification for the use of 18F-FDG PET in this specific case"
+18F-FDG PET,Gastric cancer,Restaging/response post therapy,May be Considered,FDG PET/CT may be considered for restaging after definitive therapy.,"• Confirm diagnosis of gastric cancer with pathology report.  
+• Provide documentation of definitive therapy received (e.g., surgery, chemotherapy).  
+• Include clinical notes detailing the need for restaging and response assessment.  
+• Attach any previous imaging results relevant to the current request."
+18F-FDG PET,Gastric cancer,Restaging/response post therapy,May be Considered,FDG PET/CT may be considered for assessing the response to preoperative chemotherapy.,"• Confirm diagnosis of gastric cancer with pathology report.  
+• Document details of preoperative chemotherapy regimen and response.  
+• Include clinical notes supporting the need for restaging/response assessment.  
+• Provide any previous imaging results relevant to the current request."
+18F-FDG PET,Gastric cancer,Surveillance,May be Considered,FDG PET/CT may be considered in the post-treatment surveillance of patients.,"• Confirm diagnosis of gastric cancer with pathology report.  
+• Provide documentation of previous treatments and their outcomes.  
+• Include clinical rationale for the need for surveillance imaging.  
+• Ensure prior authorization is obtained if required by policy."
+18F-FDG PET,Gastric cancer,Suspected recurrence,May be Considered,"To identify recurrent disease in gastric bed, near anastomoses or stumps","• Clinical notes detailing the diagnosis of gastric cancer and the suspicion of recurrence  
+• Imaging reports from previous scans to establish a baseline  
+• Justification for the use of 18F-FDG PET in identifying recurrent disease  
+• Documentation of the patient's treatment history and current symptoms"
+18F-FDG PET,Gastric cancer,Radiotherapy planning,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Gastric cancer,Notes:,,"FDG PET-CT may be less informative in patients with mucinous or diffuse/non-intestinal types tumours; ** Baseline clinical staging FDG PET-CT evaluation is recommended in >T1 suspected disease, particularly if nodal and/or metastatic disease is equivocal on initial CT chest+abdomen+pelvis imaging.*** Although CT chest+abdomen+pelvis with oral and IV contrast is the preferred imaging for follow-up/surveillance of patients with p stage II/III or yp stage I-III (treated with neoadjuvant ± adjuvant chemotherapy), FDG PET-CT can be considered in addition or replacing the CT, as above.","• Confirm diagnosis of gastric cancer with pathology report.  
+• Provide initial CT chest, abdomen, and pelvis imaging results.  
+• Include clinical staging details, particularly if >T1 suspected disease.  
+• Document rationale for FDG PET-CT use in the context of nodal/metastatic disease evaluation."
+18F-FDG PET,Pancreatic adenocarcinoma,Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Pancreatic adenocarcinoma,Diagnosis,May be Considered,Diagnosis of primary pancreatic cancer when other imaging is non-diagnostic,"• Confirm the diagnosis of primary pancreatic adenocarcinoma with pathology report.  
+• Provide documentation of previous non-diagnostic imaging results.  
+• Include clinical notes justifying the need for 18F-FDG PET scan for diagnosis.  
+• Ensure all relevant patient demographics and insurance information are included."
+18F-FDG PET,Pancreatic adenocarcinoma,Staging,Recommended in Select Cases,"FDG PET/CT is recommended in select cases for staging of patients with potentially operable pancreatic adenocarcinoma where conventional imaging is equivocal, and a positive PET/CT would lead to a decision not to operate.","• Clinical notes detailing the diagnosis of pancreatic adenocarcinoma and rationale for staging  
+• Results of conventional imaging studies indicating equivocal findings  
+• Justification for the use of FDG PET/CT, including potential impact on surgical decision-making  
+• Any previous treatment history relevant to the staging process"
+18F-FDG PET,Pancreatic adenocarcinoma,Early response assessment,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Pancreatic adenocarcinoma,Restaging/response post therapy,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Pancreatic adenocarcinoma,Suspected recurrence,May be Considered,"FDG PET/CT may be considered in cases of suspected recurrence, where other imaging is equivocal or negative.","• Clinical notes detailing the patient's history and previous imaging results  
+• Documentation of the suspected recurrence and rationale for PET scan  
+• Previous imaging reports (e.g., CT, MRI) indicating equivocal or negative findings  
+• Authorization request form with supporting clinical information"
+18F-FDG PET,Pancreatic adenocarcinoma,Surveillance,May be Considered,FDG PET/CT may be considered in the post-treatment surveillance of patients.,"• Confirm diagnosis of pancreatic adenocarcinoma with pathology report.  
+• Document prior treatment history and response to therapy.  
+• Provide clinical rationale for surveillance imaging.  
+• Include any relevant imaging studies or results from previous scans."
+18F-FDG PET,Pancreatic adenocarcinoma,Radiotherapy planning,May be Considered,FDG PET/CT may be considered for target volume delineation and dose intensification.,"• Clinical notes detailing the diagnosis of pancreatic adenocarcinoma  
+• Justification for the use of 18F-FDG PET in radiotherapy planning  
+• Documentation of previous imaging studies and their findings  
+• Treatment plan outlining the intended radiotherapy approach"
+18F-FDG PET,Colorectal cancer,Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Colorectal cancer,Diagnosis,Not Recommended,FDG PET/CT is not recommended for the diagnosis of colorectal cancer.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Colorectal cancer,Staging,Recommended in Select Cases,FDG PET/CT is recommended in select cases for patients in whom potentially resectable metastases have been detected on conventional imaging.,"• Confirm diagnosis of colorectal cancer with pathology report.  
+• Provide results of conventional imaging showing potentially resectable metastases.  
+• Document clinical rationale for the use of FDG PET/CT in staging.  
+• Include any previous treatment history relevant to the current staging request."
+18F-FDG PET,Colorectal cancer,Staging,May be Considered,FDG PET/CT may be considered in patients in whom conventional imaging is equivocal.,"• Confirm the diagnosis of colorectal cancer with pathology report.  
+• Provide documentation of conventional imaging results indicating equivocal findings.  
+• Include a clinical rationale for the need for FDG PET/CT in staging.  
+• Ensure all relevant patient history and previous treatment details are included."
+18F-FDG PET,Colorectal cancer,Early response assessment,May be Considered,FDG PET/CT may be considered during chemotherapy in advanced colorectal cancer to identify ineffective treatment in non-responders.,"• Confirm diagnosis of advanced colorectal cancer with supporting pathology report.  
+• Document current chemotherapy regimen and treatment history.  
+• Provide clinical rationale for early response assessment using 18F-FDG PET.  
+• Include any previous imaging results relevant to treatment response."
+18F-FDG PET,Colorectal cancer,Restaging/response post therapy,Recommended in Select Cases,FDG PET/CT is recommended in select cases for restaging of patients with confirmed recurrence being considered for radical treatment and/or metastatectomy.,"• Confirmed diagnosis of colorectal cancer with documented recurrence  
+• Evidence of prior therapy and response assessment  
+• Justification for the need for radical treatment and/or metastatectomy  
+• Clinical notes supporting the necessity of 18F-FDG PET for restaging"
+18F-FDG PET,Colorectal cancer,Restaging/response post therapy,Recommended in Select Cases,Assessment of treatment response in patients with rectal carcinoma post (chemo) radiotherapy with indeterminate findings on other imaging.,"• Confirm diagnosis of colorectal cancer and specify rectal carcinoma.  
+• Provide documentation of previous imaging results indicating indeterminate findings.  
+• Include details of prior therapy (chemotherapy and/or radiotherapy) and treatment response.  
+• Justify the need for 18F-FDG PET scan based on current clinical guidelines and patient condition."
+18F-FDG PET,Colorectal cancer,Restaging/response post therapy,Recommended in Select Cases,"Assessment of treatment response following targeted therapy (ablative techniques for liver or lung metastases, selective internal radiotherapy for liver metastases) in metastatic colorectal carcinoma when findings on other imaging are inconclusive.","• Clinical notes detailing the diagnosis of metastatic colorectal cancer and treatment history  
+• Imaging reports from previous scans indicating inconclusive findings  
+• Documentation of targeted therapy or ablative techniques used for liver or lung metastases  
+• Justification for the need for 18F-FDG PET scan based on current clinical status and treatment response assessment"
+18F-FDG PET,Colorectal cancer,Restaging/response post therapy,Recommended in Select Cases,Monitoring metabolic response in patients with metastatic colorectal cancer being treated with oral multikinase and immune checkpoint inhibitors.,"• Confirm diagnosis of metastatic colorectal cancer  
+• Document current treatment regimen (oral multikinase and immune checkpoint inhibitors)  
+• Provide evidence of prior therapy response and need for restaging  
+• Include physician's recommendation for the imaging study and rationale for its necessity"
+18F-FDG PET,Colorectal cancer,Restaging/response post therapy,May be Considered,FDG PET/CT may be considered after local ablative therapy of liver metastases to identify residual tumour at an early stage.,"• Confirm diagnosis of colorectal cancer and document previous therapies.  
+• Provide details of local ablative therapy for liver metastases.  
+• Include clinical rationale for the need for 18F-FDG PET scan for restaging.  
+• Attach any relevant imaging reports or prior PET results for comparison."
+18F-FDG PET,Colorectal cancer,Restaging/response post therapy,May be Considered,FDG PET/CT may be considered after preoperative radiotherapy for rectal cancer as 18F-FDG PET/CT has been shown to correlate better with pathology than conventional imaging.,"• Confirm diagnosis of colorectal cancer and indication for restaging/response post therapy.  
+• Obtain documentation of preoperative radiotherapy treatment details.  
+• Include previous imaging results for comparison (conventional imaging).  
+• Provide clinical rationale supporting the use of 18F-FDG PET/CT in this case."
+18F-FDG PET,Colorectal cancer,Restaging/response post therapy,May be Considered,FDG PET/CT may be considered for the evaluation of indeterminate presacral masses post treatment.,"• Confirm diagnosis of colorectal cancer with pathology report.  
+• Document previous therapy details and response.  
+• Provide clinical rationale for the need for 18F-FDG PET scan for restaging.  
+• Include any imaging results showing indeterminate presacral masses."
+18F-FDG PET,Colorectal cancer,Restaging/response post therapy,Recommended in Select Cases,"Restaging of patients with recurrence being considered for radical treatment and/or invasive targeted techniques (for example, metastatectomy/selective internal radiation therapy [SIRT]).","• Clinical documentation supporting the diagnosis of colorectal cancer  
+• Evidence of prior therapy and response to treatment  
+• Justification for the need for restaging and potential radical treatment options  
+• Any relevant imaging studies or reports that support the request"
+18F-FDG PET,Colorectal cancer,Suspected recurrence,Recommended in Select Cases,Detection of recurrence in patients with rising tumour markers and/or clinical suspicion of recurrence with normal or equivocal findings on other imaging,"• Clinical notes indicating rising tumor markers and/or clinical suspicion of recurrence  
+• Previous imaging reports showing normal or equivocal findings  
+• Justification for the use of 18F-FDG PET in this specific case  
+• Patient history and treatment summary related to colorectal cancer"
+18F-FDG PET,Colorectal cancer,Surveillance,May be Considered,"FDG PET/CT may be considered for routine follow-up of patients, as in limited studies it has been shown to detect recurrence at an earlier stage.","• Confirm the diagnosis of colorectal cancer and document the patient's treatment history.  
+• Provide evidence of prior imaging studies and their results.  
+• Include clinical rationale for the need for surveillance imaging.  
+• Document any relevant symptoms or changes in the patient's condition since the last imaging."
+18F-FDG PET,Colorectal cancer,Radiotherapy planning,Not Recommended,FDG PET/CT is not recommended for radiotherapy planning.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Anal cancer,Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Anal cancer,Diagnosis,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Anal cancer,Staging,May be Considered,FDG PET/CT is not recommended for routine use as it has not been validated and it should not replace diagnostic CT. FDG PET/CT may be considered for node-positive disease and T2-4 N0 disease to confirm staging before surgery.,"• Clinical notes detailing the diagnosis of anal cancer and staging information  
+• Evidence of node-positive disease or T2-4 N0 disease  
+• Justification for the use of 18F-FDG PET for staging prior to surgery  
+• Previous imaging results (e.g., diagnostic CT) to support the request"
+18F-FDG PET,Anal cancer,Staging,Recommended in Select Cases,For staging in patients with T2-T4 anal tumours suitable for radical treatment.,"• Confirm diagnosis of anal cancer with pathology report  
+• Document staging details indicating T2-T4 tumor classification  
+• Provide evidence of suitability for radical treatment  
+• Include any previous imaging studies relevant to staging"
+18F-FDG PET,Anal cancer,Restaging/response post therapy,May be Considered,"FDG PET/CT may be considered for restaging of patients with persistent, progressive or recurrent disease who are being considered for salvage surgery.","• Clinical documentation of persistent, progressive, or recurrent anal cancer  
+• Evidence of previous therapy and response  
+• Justification for considering salvage surgery  
+• Any relevant imaging studies or reports prior to the PET scan"
+18F-FDG PET,Anal cancer,Suspected recurrence,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Anal cancer,Surveillance,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Anal cancer,Radiotherapy planning,May be Considered,FDG PET/CT may be considered.,"• Obtain the referring physician's detailed clinical notes supporting the need for 18F-FDG PET in radiotherapy planning.  
+• Include pathology reports confirming the diagnosis of anal cancer.  
+• Provide previous imaging studies and treatment history relevant to the case.  
+• Document any relevant clinical guidelines or evidence supporting the use of FDG PET/CT for this indication."
+18F-FDG PET,Hepatobiliary cancers,Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Hepatobiliary cancers,Diagnosis,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Hepatobiliary cancers,Staging,May be Considered,"FDG PET/CT is not recommended for routine staging of HCC. FDG PET/CT may be considered to detect distant and nodal metastases in patients with biliary cancer and otherwise potentially resectable disease. There is, however, a high risk of false-negative studies in mucinous adenocarcinomas.","• Clinical documentation supporting the diagnosis of hepatobiliary cancer  
+• Evidence of potentially resectable disease status  
+• Justification for the use of FDG PET/CT in staging  
+• Previous imaging results to assess for distant and nodal metastases"
+18F-FDG PET,Hepatobiliary cancers,Restaging/response post therapy,Not Recommended,FDG PET/CT is not recommended for restaging of confirmed recurrence of HCC or biliary cancer. FDG PET/CT is not recommended to assess treatment response in HCC or biliary cancers (insufficient evidence).,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Hepatobiliary cancers,Suspected recurrence,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Hepatobiliary cancers,Surveillance,Not Recommended,FDG PET/CT is not recommended in routine follow-up of patients with treated HCC or biliary cancers.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Hepatobiliary cancers,Radiotherapy planning,Not Recommended,FDG PET/CT is not recommended in radiotherapy planning for HCC or biliary cancers.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Hepatocellular carcinoma,Diagnosis,May be Considered,Identification of poor prognosis HCC.,"• Clinical notes detailing the diagnosis of hepatocellular carcinoma and rationale for imaging  
+• Evidence of poor prognosis indicators for HCC  
+• Previous imaging studies and results, if applicable  
+• Justification for the necessity of 18F-FDG PET scan in the diagnostic process"
+18F-FDG PET,Hepatocellular carcinoma,Suspected recurrence,May be Considered,"Suspected recurrence of hepatocellular carcinoma (HCC), where cross-sectional imaging is equivocal or negative, taking into consideration that that up to 50% of HCC may not be FDG avid","• Clinical notes detailing the suspected recurrence of hepatocellular carcinoma (HCC)  
+• Results of prior cross-sectional imaging studies (e.g., CT, MRI)  
+• Justification for the use of 18F-FDG PET in the context of equivocal or negative findings  
+• Documentation of the patient's history and any relevant lab results"
+18F-FDG PET,Hepatocellular carcinoma,Restaging/response post therapy,May be Considered,Predicting probability of early recurrence after liver transplantation for HCC,"• Clinical documentation supporting diagnosis of hepatocellular carcinoma  
+• Evidence of prior therapy and response  
+• Justification for the need for 18F-FDG PET scan in restaging  
+• Information on the patient's liver transplantation status and recurrence risk factors"
+18F-FDG PET,Gallbladder Cancer,Staging,May be Considered,Pre-operative staging.,"• Confirm diagnosis of gallbladder cancer with pathology report.  
+• Provide clinical notes detailing the need for pre-operative staging.  
+• Include any prior imaging studies relevant to staging.  
+• Document physician's recommendation for the 18F-FDG PET scan."
+18F-FDG PET,Sarcoma,Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Sarcoma,Diagnosis,Not Recommended,FDG PET/CT is not recommended in the routine diagnosis of sarcoma.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Sarcoma,Diagnosis,May be Considered,FDG PET/CT may be considered to detect malignant transformation in patients with neurofibromatosis 1.,"• Clinical documentation supporting the diagnosis of sarcoma  
+• Evidence of neurofibromatosis 1 diagnosis  
+• Justification for the use of 18F-FDG PET for detecting malignant transformation  
+• Any previous imaging results relevant to the case"
+18F-FDG PET,Sarcoma,Staging,Recommended in Select Cases,FDG PET/CT is recommended in select cases in patients with soft-tissue sarcoma and suspected isolated metastases who are potential candidates for curative surgery.,"• Confirm diagnosis of soft-tissue sarcoma with pathology report.  
+• Document suspected isolated metastases with imaging results.  
+• Provide evidence of potential candidacy for curative surgery.  
+• Include clinical rationale for the use of FDG PET/CT in staging."
+18F-FDG PET,Sarcoma,Staging,Recommended in Select Cases,Staging of patients with metastatic sarcoma considered for liver or lung metastatectomy where anatomical imaging has not identified any extra-thoracic or extra-hepatic disease which would preclude surgery,"• Clinical notes detailing the diagnosis of sarcoma and current staging  
+• Evidence of metastatic disease with consideration for liver or lung metastatectomy  
+• Results of anatomical imaging indicating no extra-thoracic or extra-hepatic disease  
+• Justification for the use of 18F-FDG PET in this specific case"
+18F-FDG PET,Sarcoma,Staging,May be Considered,"FDG PET/CT may be considered for staging of soft-tissue sarcoma, but does not replace established radiological investigations. FDG PET/CT may be useful in prognostication and grading and is especially beneficial in high-grade extremity lesions that are larger than 3 cm, firm and deep.","• Confirm diagnosis of sarcoma with pathology report.  
+• Provide clinical rationale for staging with FDG PET/CT.  
+• Include imaging results from established radiological investigations.  
+• Document size and characteristics of the lesion (e.g., >3 cm, firm, deep)."
+18F-FDG PET,Sarcoma,Staging,May be Considered,FDG PET/CT may be considered in staging of Ewing’s sarcoma and osteosarcoma.,"• Confirm diagnosis of Ewing’s sarcoma or osteosarcoma  
+• Provide clinical rationale for staging with 18F-FDG PET  
+• Include previous imaging results and treatment history  
+• Document physician's order and any relevant clinical notes"
+18F-FDG PET,Sarcoma,Staging,May be Considered,FDG PET/CT may be considered in staging of chordoma.,"• Confirm diagnosis of sarcoma with pathology report.  
+• Provide clinical notes detailing staging indication and rationale for PET scan.  
+• Include previous imaging results for comparison, if applicable.  
+• Document any relevant treatment history or planned interventions."
+18F-FDG PET,Sarcoma,Restaging/response post therapy,May be Considered,FDG PET/CT may be considered for restaging of recurrent rhabdomyosarcoma but does not replace established radiological investigations.,"• Clinical documentation supporting the diagnosis of sarcoma and indication for restaging  
+• Previous imaging results (e.g., CT, MRI) to demonstrate established radiological investigations  
+• Treatment history and response to therapy details  
+• Justification for the use of 18F-FDG PET in this specific case"
+18F-FDG PET,Sarcoma,Restaging/response post therapy,May be Considered,FDG PET/CT may be considered for restaging after definitive therapy of soft-tissue and skeletal sarcomas (provided a baseline scan was obtained).,"• Confirm that a baseline FDG PET/CT scan was obtained prior to therapy.  
+• Document the definitive therapy details and dates for the sarcoma treatment.  
+• Include clinical notes supporting the need for restaging and response assessment.  
+• Ensure all relevant imaging reports are attached for review."
+18F-FDG PET,Sarcoma,Restaging/response post therapy,May be Considered,FDG PET/CT may be considered for assessing response to treatment in both skeletal and soft-tissue sarcomas. Comparison with a baseline scan is required.,"• Clinical documentation of the sarcoma diagnosis and treatment history  
+• Baseline FDG PET/CT scan for comparison  
+• Recent imaging results and therapy response details  
+• Justification for the necessity of the 18F-FDG PET scan for restaging"
+18F-FDG PET,Sarcoma,Restaging/response post therapy,May be Considered,FDG PET/CT may be considered after neoadjuvant therapy of high-grade osteosarcoma to assess resectability.,"• Confirm diagnosis of sarcoma and specify type (e.g., high-grade osteosarcoma).  
+• Document details of neoadjuvant therapy received.  
+• Provide clinical rationale for the need for 18F-FDG PET scan for restaging.  
+• Include any previous imaging results for comparison."
+18F-FDG PET,Sarcoma,Suspected recurrence,May be Considered,FDG PET/CT may be considered for detection of suspected recurrence of sarcoma in order to guide biopsy.,"• Clinical notes detailing the suspected recurrence of sarcoma  
+• Previous imaging results to compare findings  
+• Justification for the use of 18F-FDG PET in guiding biopsy  
+• Any relevant lab results or pathology reports supporting the diagnosis"
+18F-FDG PET,Sarcoma,Suspected recurrence,May be Considered,FDG PET/CT may be considered prior to radical amputation for recurrent soft-tissue sarcoma to exclude other sites of disease.,"• Clinical notes detailing the suspected recurrence of sarcoma  
+• Imaging reports from previous scans to establish a baseline  
+• Justification for the need for 18F-FDG PET prior to radical amputation  
+• Documentation of any prior treatments and their outcomes"
+18F-FDG PET,Sarcoma,Surveillance,Not Recommended,FDG PET/CT is not recommended for routine follow-up of previously treated patients with soft-tissue sarcomas.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Sarcoma,Surveillance,May be Considered,FDG PET/CT may be considered for post-therapy surveillance of treated Ewing’s sarcoma and osteosarcoma.,"• Confirm diagnosis of Ewing’s sarcoma or osteosarcoma  
+• Document previous treatment details and response  
+• Provide clinical rationale for surveillance imaging  
+• Include any relevant imaging history or prior scans"
+18F-FDG PET,Sarcoma,Radiotherapy planning,May be Considered,FDG PET/CT may be considered in radiotherapy planning of high-grade sarcomas. This is based on minimal evidence but a strong rationale.,"• Clinical notes detailing the diagnosis of high-grade sarcoma  
+• Justification for the use of 18F-FDG PET in radiotherapy planning  
+• Any prior imaging studies relevant to the case  
+• Documentation of treatment history and current treatment plan"
+18F-FDG PET,Gastrointestinal stromal tumour (GIST),Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Gastrointestinal stromal tumour (GIST),Diagnosis,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Gastrointestinal stromal tumour (GIST),Staging,Recommended in Select Cases,"FDG PET/CT is recommended in select cases for GIST prior to the initiation of imatinib (Gleevec) therapy in patients with tumours that are marginally resectable or with risk of significant morbidity, but may yet undergo curative surgery. PET/CT may assist in making a timely decision for or against surgery. PET/CT does not replace CT or MRI in staging these patients.","• Clinical documentation supporting the diagnosis of gastrointestinal stromal tumour (GIST)  
+• Evidence of marginally resectable tumour or significant morbidity risk  
+• Justification for the use of 18F-FDG PET/CT prior to imatinib therapy  
+• Previous imaging results (CT or MRI) for staging comparison"
+18F-FDG PET,Gastrointestinal stromal tumour (GIST),Staging,May be Considered,"FDG PET/CT may be considered in patients with definitively unresectable disease who will be started on imatinib, as a baseline measure against which future PET/CT for treatment response might be performed.","• Confirm diagnosis of gastrointestinal stromal tumour (GIST) with pathology report.  
+• Document evidence of unresectable disease status.  
+• Include treatment plan indicating initiation of imatinib therapy.  
+• Provide previous imaging results for baseline comparison."
+18F-FDG PET,Gastrointestinal stromal tumour (GIST),Staging,May be Considered,FDG PET/CT may be considered for staging of GIST patients with allergy to CT contrast and inconclusive MRI.,"• Document the diagnosis of gastrointestinal stromal tumour (GIST)  
+• Provide evidence of allergy to CT contrast  
+• Include results of any inconclusive MRI scans  
+• Justify the need for 18F-FDG PET for staging purposes"
+18F-FDG PET,Gastrointestinal stromal tumour (GIST),Restaging/response post therapy,Recommended in Select Cases,"FDG PET/CT is recommended in select cases for patients who may be future candidates for curative resection, to assess initial treatment response after 2 - 4 weeks of imatinib therapy, if the tumour shows uptake on baseline PET/CT.","• Confirm diagnosis of gastrointestinal stromal tumour (GIST) with pathology report.  
+• Provide documentation of previous imaging studies, including baseline PET/CT results.  
+• Include treatment history, specifically details of imatinib therapy and duration.  
+• Justify the need for FDG PET/CT based on potential for curative resection and initial treatment response."
+18F-FDG PET,Gastrointestinal stromal tumour (GIST),Restaging/response post therapy,Not Recommended,FDG PET/CT is not recommended for routine restaging of patients who undergo definitive therapy (surgery).,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Gastrointestinal stromal tumour (GIST),Restaging/response post therapy,May be Considered,Early treatment response (six to eight weeks) to imatinib.,"• Clinical documentation of the diagnosis of gastrointestinal stromal tumour (GIST)  
+• Evidence of therapy with imatinib, including treatment dates and dosages  
+• Imaging reports from previous scans to establish baseline and treatment response  
+• Justification for the need for 18F-FDG PET scan based on early treatment response (6-8 weeks)"
+18F-FDG PET,Gastrointestinal stromal tumour (GIST),Suspected recurrence,May be Considered,"FDG PET/CT may be considered for detecting suspected recurrence of previously definitively treated GIST, when CT or MRI is ambiguous.","• Clinical notes detailing the previous treatment of GIST and current symptoms indicating suspected recurrence  
+• Recent CT or MRI reports showing ambiguity in findings  
+• Justification for the use of 18F-FDG PET in this specific case  
+• Any relevant pathology reports or imaging studies supporting the diagnosis and need for further evaluation"
+18F-FDG PET,Gastrointestinal stromal tumour (GIST),Surveillance,Not Recommended,FDG PET/CT is not recommended for routine follow-up in definitively treated disease or in patients on imatinib maintenance.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Gastrointestinal stromal tumour (GIST),Radiotherapy planning,Not Recommended,FDG PET/CT is not recommended in radiotherapy planning for GIST.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Renal cell carcinoma (RCC),Staging and restaging for extrarenal metastases,May be Considered,FDG PET/CT may be considered for extrarenal metastases in staging and restaging.,"• Confirm diagnosis of renal cell carcinoma (RCC) with pathology report.  
+• Provide clinical notes detailing the need for staging and restaging for extrarenal metastases.  
+• Include previous imaging results to support the necessity of the 18F-FDG PET scan.  
+• Document any relevant treatment history and current symptoms related to metastases."
+18F-FDG PET,Renal cell carcinoma (RCC),Surveillance post nephrectomy,Not Recommended,"Currently there is insufficient evidence to support the use of FDG PET/CT in diagnosis, or surveillance post nephrectomy in RCC. FDG PET/CT in RCC for these indications is therefore not recommended.","1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Renal cell carcinoma (RCC),Assessment of tumour response,May be Considered,FDG PET/CT may be considered for the assessment of tumour response to molecular-triggered therapies when there is minimal change in volume (on radiological assessment).,"• Clinical documentation of renal cell carcinoma diagnosis  
+• Evidence of molecular-triggered therapy being administered  
+• Recent radiological assessment showing minimal change in tumor volume  
+• Justification for the use of 18F-FDG PET in assessing tumor response"
+18F-FDG PET,Renal cell carcinoma (RCC),Restaging,May be Considered,Assessment of disease recurrence within the nephrectomy bed.,"• Clinical notes detailing the initial diagnosis and treatment of renal cell carcinoma (RCC)  
+• Imaging reports from previous scans to establish a baseline for comparison  
+• Documentation of symptoms or findings indicating potential disease recurrence  
+• Justification for the use of 18F-FDG PET in the context of restaging and assessment of the nephrectomy bed"
+18F-FDG PET,Renal cell carcinoma (RCC),Restaging,Recommended in Select Cases,Monitoring response to treatment if previously FDG-avid metastatic disease.,"• Confirm diagnosis of renal cell carcinoma (RCC) with pathology report.  
+• Provide documentation of previous FDG-avid metastatic disease and treatment history.  
+• Include recent imaging results to demonstrate the need for restaging.  
+• Justify the request based on monitoring response to treatment criteria."
+18F-FDG PET,Ureteric and urethral carcinoma,All indications,Not Recommended,Currently there is insufficient evidence to support the use of FDG PET/CT in ureteric and urethral cancers. Existing clinical guidelines do not include a role for FDG PET/CT in this condition. FDG PET/CT in these malignancies is therefore not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Bladder cancer,Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Bladder cancer,Diagnosis,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Bladder cancer,Staging,Recommended in Select Cases,"Staging – In the setting of proven muscle invasive bladder cancer or high-risk non muscle-invasive bladder cancer before radical treatment if there are indeterminate f indings on CT or MRI, or a high-risk of metastatic disease (e.g., T3b disease)","• Confirm diagnosis of muscle invasive bladder cancer or high-risk non muscle-invasive bladder cancer.  
+• Provide imaging reports (CT or MRI) indicating indeterminate findings.  
+• Document clinical rationale for staging and high-risk of metastatic disease (e.g., T3b).  
+• Include any previous treatment history relevant to the staging request."
+18F-FDG PET,Bladder cancer,Restaging/response post therapy,Not Recommended,FDG PET/CT is not recommended for response post therapy.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Bladder cancer,Restaging/response post therapy,May be Considered,FDG PET/CT may be considered for distant metastases in restaging.,"• Confirm diagnosis of bladder cancer with pathology report.  
+• Provide documentation of previous therapy and response.  
+• Include clinical notes detailing the need for restaging.  
+• Justify the use of 18F-FDG PET for assessing distant metastases."
+18F-FDG PET,Bladder cancer,Suspected recurrence,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Bladder cancer,Radiotherapy planning,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Testicular cancer,Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Testicular cancer,Diagnosis,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Testicular cancer,Staging,Recommended in Select Cases,In selected cases of primary staging of testicular germ cell tumours with equivocal f indings on conventional work-up,"• Confirm diagnosis of testicular cancer with pathology report.  
+• Document conventional work-up results indicating equivocal findings.  
+• Provide clinical rationale for the use of 18F-FDG PET in staging.  
+• Include any relevant patient history that supports the need for imaging."
+18F-FDG PET,Testicular cancer,Restaging/response post therapy,Recommended in Select Cases,"FDG PET/CT is recommended in select cases, in pure seminoma with residual tumour >3 cm and normal marker levels post chemotherapy: to detect viable residual tumour. PET should be performed ≥6 weeks after last chemotherapy to reduce the incidence of false-positive results.","• Confirm diagnosis of testicular cancer and specify the type (pure seminoma).  
+• Document residual tumor size (>3 cm) and normal marker levels post-chemotherapy.  
+• Provide evidence of completion of chemotherapy at least 6 weeks prior to PET scan.  
+• Include clinical rationale for the need for FDG PET/CT in restaging/response assessment."
+18F-FDG PET,Testicular cancer,Restaging/response post therapy,May be Considered,"FDG PET/CT may be considered in pure seminoma with residual tumour <3 cm and normal marker levels post chemotherapy: to detect viable residual tumour. In this context, the positive predictive value of PET is lower and surveillance is preferred. If performed in such cases, PET should be performed ≥6 weeks after last chemotherapy to reduce incidence of false-positive results.","• Confirm diagnosis of pure seminoma with residual tumor <3 cm and normal marker levels post-chemotherapy.  
+• Document the timing of the last chemotherapy treatment (≥6 weeks prior to PET scan).  
+• Include clinical rationale for the PET scan in the context of restaging/response assessment.  
+• Ensure all relevant imaging and treatment history is attached to the request."
+18F-FDG PET,Testicular cancer,Suspected recurrence,Recommended in Select Cases,Assessment of recurrent disease in seminoma patients with elevated or rising tumour markers and equivocal or normal anatomical imaging.,"• Confirm diagnosis of testicular cancer and document the current status of the patient.  
+• Provide evidence of elevated or rising tumor markers.  
+• Include results of recent anatomical imaging (e.g., CT or MRI) indicating equivocal or normal findings.  
+• Justify the need for 18F-FDG PET scan based on the recommendation criteria."
+18F-FDG PET,Testicular cancer,Surveillance,Not Recommended,FDG PET/CT is not recommended for routine surveillance of testicular cancer after definitive therapy.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Testicular cancer,Radiotherapy planning,Not Recommended,FDG PET/CT is not recommended for radiotherapy planning.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Penile carcinoma,Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Penile carcinoma,Diagnosis,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Penile carcinoma,Staging ,May be Considered,FDG PET/CT may be considered in patients with palpable inguinal nodes and who have potentially resectable disease on CT or MRI; FDG detects pelvic lymph node- and distant metastases.,"• Clinical notes detailing the diagnosis of penile carcinoma and staging indication  
+• Imaging reports (CT or MRI) showing potentially resectable disease  
+• Documentation of palpable inguinal nodes  
+• Justification for the use of 18F-FDG PET in the context of staging and metastasis detection"
+18F-FDG PET,Penile carcinoma,Staging ,May be Considered,Staging of high-risk penile carcinoma.,"• Clinical notes detailing the diagnosis of high-risk penile carcinoma  
+• Staging information and rationale for the use of 18F-FDG PET  
+• Previous imaging studies, if applicable, to support the need for staging  
+• Any relevant pathology reports confirming the diagnosis and risk assessment"
+18F-FDG PET,Penile carcinoma,Restaging/response post therapy,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Penile carcinoma,Suspected recurrence,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Penile carcinoma,Routine follow-up (surveillance),Not Recommended,FDG PET/CT is not recommended for surveillance post definitive therapy.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Penile carcinoma,Radiotherapy planning,May be Considered,FDG PET/CT may be considered to assist planning of neoadjuvant radiotherapy (strong rationale).,"• Clinical documentation supporting the diagnosis of penile carcinoma  
+• Justification for the use of 18F-FDG PET in radiotherapy planning  
+• Evidence of prior treatments and their outcomes  
+• Any relevant imaging studies or reports that may assist in the decision-making process"
+18F-FDG PET,Cervical cancer,Screening,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Cervical cancer,Diagnosis,Not Recommended,FDG PET/CT is not recommended.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Cervical cancer,Staging,Recommended in Select Cases,"FDG PET/CT is recommended in select cases for initial staging, in locally advanced cervical cancer being considered for radical chemoradiotherapy.","• Confirm diagnosis of locally advanced cervical cancer  
+• Document consideration for radical chemoradiotherapy  
+• Provide clinical rationale for the use of FDG PET/CT in staging  
+• Include any relevant imaging or pathology reports"
+18F-FDG PET,Cervical cancer,Restaging/response post therapy,Recommended in Select Cases,FDG PET/CT is recommended in select cases for restaging in locally advanced disease being considered for radical chemoradiotherapy.,"• Confirm diagnosis of cervical cancer and stage of disease  
+• Document previous therapy details and response  
+• Provide rationale for the need for FDG PET/CT in restaging  
+• Include supporting clinical notes indicating consideration for radical chemoradiotherapy"
+18F-FDG PET,Cervical cancer,Suspected recurrence,Recommended in Select Cases,FDG PET/CT is recommended in select cases for detection of recurrent disease when other imaging is equivocal.,"• Confirm diagnosis of cervical cancer with pathology report.  
+• Document previous imaging results and their equivocal findings.  
+• Provide clinical notes supporting suspicion of recurrence.  
+• Include any relevant treatment history and response to previous therapies."
+18F-FDG PET,Cervical cancer,Surveillance,Not Recommended,FDG PET/CT is not recommended for routine follow-up.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Cervical cancer,Radiotherapy planning,May be Considered,FDG PET/CT may be considered for radiotherapy planning.,"• Confirm the diagnosis of cervical cancer with pathology report.  
+• Provide clinical rationale for the use of 18F-FDG PET in radiotherapy planning.  
+• Include any previous imaging studies relevant to the treatment plan.  
+• Document the treatment plan and expected outcomes from the imaging."
+18F-FDG PET,Other gynaecological malignancies,Screening,Not Recommended,FDG PET/CT is not recommended for screening at-risk populations.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Other gynaecological malignancies,Diagnosis,Not Recommended,FDG PET/CT is not recommended for diagnosis of ovarian cancer. FDG PET/CT is not recommended for diagnosis of endometrial cancer.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Other gynaecological malignancies,Staging,May be Considered,FDG PET/CT may be considered for staging of patients with endometrial cancer considered for surgery.,"• Confirm diagnosis of endometrial cancer and indication for staging  
+• Obtain relevant clinical notes and imaging history  
+• Document the rationale for using 18F-FDG PET for staging  
+• Ensure prior authorization is completed and submitted"
+18F-FDG PET,Other gynaecological malignancies,Staging,May be Considered,FDG PET/CT may be considered for staging of patients with vulval carcinoma considered for surgery.,"• Confirm diagnosis of vulval carcinoma and indication for staging.  
+• Provide clinical notes detailing the patient's surgical candidacy.  
+• Include previous imaging reports and any relevant pathology results.  
+• Document the rationale for using 18F-FDG PET in this specific case."
+18F-FDG PET,Other gynaecological malignancies,Staging,May be Considered,"FDG PET/CT may be considered for staging of ovarian cancer, complementary to diagnostic CT in selected patients preoperatively.","• Confirm diagnosis of other gynaecological malignancies with pathology report.  
+• Provide clinical rationale for the use of 18F-FDG PET for staging.  
+• Include previous imaging results (e.g., diagnostic CT) for comparison.  
+• Document preoperative status and any relevant patient history."
+18F-FDG PET,Other gynaecological malignancies,Restaging/response post therapy,May be Considered,FDG PET/CT may be considered for restaging of patients with endometrial cancer considered for surgery.,"• Confirm diagnosis of endometrial cancer and indication for restaging  
+• Provide documentation of previous therapy and response  
+• Include surgical consideration details in the request  
+• Ensure imaging request aligns with clinical guidelines for FDG PET/CT use"
+18F-FDG PET,Other gynaecological malignancies,Restaging/response post therapy,May be Considered,FDG PET/CT may be considered for restaging of patients with vulval carcinoma considered for surgery.,"• Confirm diagnosis of vulval carcinoma and indication for restaging  
+• Provide documentation of previous therapy and response  
+• Include surgical consideration details in the request  
+• Attach relevant imaging history and clinical notes"
+18F-FDG PET,Other gynaecological malignancies,Suspected recurrence,Recommended in Select Cases,FDG PET/CT is recommended in select patients for detection of tumour recurrence in ovarian carcinoma with rising CA125 levels and equivocal or negative conventional imaging.,"• Confirm diagnosis of other gynaecological malignancies and document the suspected recurrence.  
+• Provide evidence of rising CA125 levels.  
+• Include results of previous conventional imaging studies (if available).  
+• Justify the need for FDG PET/CT based on the select criteria outlined."
+18F-FDG PET,Other gynaecological malignancies,Suspected recurrence,Recommended in Select Cases,"Suspected recurrence of vulval, endometrial or cervical carcinoma when other imaging is equivocal","• Clinical notes detailing the suspected recurrence of vulval, endometrial, or cervical carcinoma  
+• Results of previous imaging studies that are equivocal  
+• Justification for the use of 18F-FDG PET in this specific case  
+• Any relevant pathology reports or treatment history"
+18F-FDG PET,Other gynaecological malignancies,Surveillance,Not Recommended,FDG PET/CT is not recommended for routine follow-up.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+Ga-DOTA-TATE/TOC/NOC PET,Neuroendocrine tumours (NETs),Screening,Not Recommended,Ga-SSTR PET is not recommended for screening at-risk populations.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+Ga-DOTA-TATE/TOC/NOC PET,Neuroendocrine tumours (NETs),Diagnosis,May be Considered,"68Ga-SSTR PET may be considered for the detection of primary NETs (CUP-NETs).[2] Carcinoma of unknown primary (CUP) is defined as a biopsy-proven secondary lesion without any evidence of primary site after physical examination and conventional imaging tests (MRI, CT and ultrasound).","• Confirm diagnosis of neuroendocrine tumours (NETs) with supporting pathology reports.  
+• Document previous imaging results (MRI, CT, ultrasound) indicating no primary site.  
+• Provide clinical rationale for the use of 68Ga-SSTR PET in the context of carcinoma of unknown primary (CUP).  
+• Include any relevant patient history that supports the need for the imaging request."
+Ga-DOTA-TATE/TOC/NOC PET,Neuroendocrine tumours (NETs),Diagnosis,Recommended in Select Cases,"68Ga-SSTR PET may be considered in the diagnostic work-up of patients with suspected NETs due to clinical symptoms, elevated levels of tumour markers or in indeterminate tumours suggestive of NET, especially in suspected thoracic or gastro-entero-pancreatic neuroendocrine tumours (GEP- NETs).  Evaluation of mass suggestive of NET not amenable to endoscopic or percutaneous biopsy (e.g., ileal lesion, hypervascular pancreatic mass, mesenteric mass).","• Clinical notes detailing symptoms and rationale for imaging request  
+• Laboratory results showing elevated tumour markers  
+• Imaging reports of any prior scans related to suspected NETs  
+• Documentation of the mass characteristics and biopsy inaccessibility"
+Ga-DOTA-TATE/TOC/NOC PET,Neuroendocrine tumours (NETs),Staging,Recommended in Select Cases,68Ga-SSTR PET is recommended in select cases for preoperative staging to localise primary tumours and detect sites of metastatic disease.,"• Confirm diagnosis of neuroendocrine tumours (NETs) with pathology report.  
+• Document indication for staging and rationale for imaging request.  
+• Provide clinical notes detailing the need for preoperative staging and localization of primary tumours.  
+• Include any previous imaging results that support the necessity of the Ga-DOTA-TATE/TOC/NOC PET scan."
+Ga-DOTA-TATE/TOC/NOC PET,Neuroendocrine tumours (NETs),Staging,Recommended in Select Cases,"Localisation of primary tumour in patients with known metastatic disease but unknown primary.1,2 – Selection of patients for somatostatin receptor-targeted peptide receptor radionuclide therapy PRRT of G1 and G2 neuroendocrine tumour, especially if negative on 111In or 99mTc somatostatin receptor imaging.","• Confirm diagnosis of neuroendocrine tumours (NETs) with supporting pathology report.  
+• Document staging indication and rationale for Ga-DOTA-TATE/TOC/NOC PET scan.  
+• Provide evidence of known metastatic disease with unknown primary tumour localization.  
+• Include previous imaging results (e.g., 111In or 99mTc somatostatin receptor imaging) and their findings."
+Ga-DOTA-TATE/TOC/NOC PET,Neuroendocrine tumours (NETs),Staging,May be Considered,"68Ga-SSTR PET may be considered for baseline staging of patients
+with GEP-NETs that will be managed medically or with an expectant strategy.","• Confirmation of diagnosis of neuroendocrine tumours (NETs)  
+• Documentation of medical management plan or expectant strategy  
+• Justification for the use of 68Ga-SSTR PET for baseline staging  
+• Relevant clinical history and previous imaging results"
+Ga-DOTA-TATE/TOC/NOC PET,Neuroendocrine tumours (NETs),Staging,May be Considered,"68Ga-SSTR PET may be considered for staging of phaeochromo-
+cytoma, paraganglioma, bronchial carcinoid, neuroblastoma, medullary thyroid cancer, multiple endocrine neoplasia type 2, and Merkel cell cancer.","• Confirm diagnosis of neuroendocrine tumours (NETs) with supporting medical records.  
+• Provide clinical rationale for the use of Ga-DOTA-TATE/TOC/NOC PET for staging.  
+• Include previous imaging results and treatment history relevant to the staging request.  
+• Document any relevant guidelines or literature supporting the use of 68Ga-SSTR PET for the specific indication."
+Ga-DOTA-TATE/TOC/NOC PET,Neuroendocrine tumours (NETs),Early response assessment,May be Considered,"68Ga-SSTR PET may be considered after the first PRRT cycle used for treatment of NET, as a prognostic measure, although there is currently insufficient evidence for its routine use in this indication","• Document the diagnosis of neuroendocrine tumours (NETs)  
+• Provide evidence of the first PRRT cycle completion  
+• Include rationale for early response assessment using 68Ga-SSTR PET  
+• Note the current evidence status regarding routine use for this indication"
+Ga-DOTA-TATE/TOC/NOC PET,Neuroendocrine tumours (NETs),Restaging/response post therapy,May be Considered,"68Ga-SSTR PET may be considered for restaging and for treatment response evaluation, although there is insufficient evidence to recommend this routinely. In such cases, comparison with a baseline scan is recommended.","• Clinical documentation supporting the diagnosis of neuroendocrine tumours (NETs)  
+• Previous imaging reports for baseline comparison  
+• Evidence of therapy received and response to treatment  
+• Justification for the necessity of Ga-DOTA-TATE/TOC/NOC PET scan for restaging"
+Ga-DOTA-TATE/TOC/NOC PET,Neuroendocrine tumours (NETs),Suspected recurrence,May be Considered,68Ga-SSTR PET may be considered to follow up patients with known disease in order to detect recurrent disease when suspected clinically or due to rising tumour markers.,"• Clinical notes indicating suspected recurrence of neuroendocrine tumours (NETs)  
+• Documentation of rising tumour markers  
+• Previous imaging results related to known disease  
+• Justification for the use of 68Ga-SSTR PET in this case"
+Ga-DOTA-TATE/TOC/NOC PET,Neuroendocrine tumours (NETs),Surveillance,Recommended,68Ga-SSTR PET is recommended as part of routine follow-up of all GEP-NET tumours after 18 - 24 months if expression of somatostatin receptor 2a has been proven on tumour cells or baseline 68Ga-SSTR PET was positive (strong rationale).,"• Confirm diagnosis of neuroendocrine tumours (NETs) with supporting pathology report.  
+• Provide documentation of previous 68Ga-SSTR PET results and somatostatin receptor 2a expression status.  
+• Include clinical notes justifying the need for surveillance imaging after 18-24 months.  
+• Ensure referral from an appropriate specialist (e.g., oncologist) is included."
+Ga-DOTA-TATE/TOC/NOC PET,Neuroendocrine tumours (NETs),Peptide receptor radiation therapy (PRRT)/radiotherapy planning,May be Considered,"68Ga-SSTR PET may be considered to determine SST receptor status visually as well as by using semiquantitative parameters such as standardised uptake value (patients with SST receptor-positive tumours are more likely to respond to octreotide therapy). This is based on limited evidence, and strong rationale.","• Clinical documentation supporting the diagnosis of neuroendocrine tumours (NETs)  
+• Evidence of previous treatments and their outcomes, including octreotide therapy  
+• Justification for the use of Ga-DOTA-TATE/TOC/NOC PET in relation to PRRT/radiotherapy planning  
+• Semiquantitative parameters or imaging results indicating SST receptor status"
+Ga-DOTA-TATE/TOC/NOC PET,Neuroendocrine tumours (NETs),Peptide receptor radiation therapy (PRRT)/radiotherapy planning,Recommended,"68Ga-SSTR PET is recommended to select patients with metastatic
+disease who are being considered for PRRT (with 177Lu or 90Y-DOTA-peptides).","• Confirm diagnosis of neuroendocrine tumours (NETs) with supporting medical records.  
+• Document indication for peptide receptor radiation therapy (PRRT) or radiotherapy planning.  
+• Provide evidence of metastatic disease status to justify the need for 68Ga-SSTR PET.  
+• Include any previous imaging results relevant to the treatment planning."
+Ga-DOTA-TATE/TOC/NOC PET,Neuroendocrine tumours (NETs),Peptide receptor radiation therapy (PRRT)/radiotherapy planning,Not Recommended,"68Ga-SSTR PET is not recommended for external beam radio-
+therapy planning In NET tumours.","1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+18F-FDG PET,Pheochromocytoma,Staging,May be Considered,"FDG PET/CT is recommended in proven malignant pheochromocytoma, for staging.","• Confirm diagnosis of pheochromocytoma with pathology report.  
+• Provide documentation of proven malignancy status.  
+• Include clinical notes justifying the need for staging.  
+• Attach previous imaging results, if available, for comparison."
+18F-FDG PET,Pheochromocytoma,Restaging/response post therapy,May be Considered,"FDG PET/CT may be considered for follow-up post therapy in select cases of phaeochromocytoma (proven malignant; SDHB mutation; extra-adrenal primary; phaeochromocytoma/ paraganglioma without relevant preoperative hormone secretion). In such cases, imaging should be repeated at least every 6 months during the first year and yearly afterward (lifelong), irrespective of negative biochemistry.","• Confirm diagnosis of pheochromocytoma and its classification (malignant, SDHB mutation, etc.)  
+• Provide documentation of previous therapy and response  
+• Include imaging history and rationale for follow-up with FDG PET/CT  
+• Ensure imaging is scheduled at the recommended intervals (every 6 months for the first year, then yearly)"
+18F-FDG PET,Merkel cell carcinoma,Staging,May be Considered,"FDG PET/CT may be considered in Merkel cell carcinoma, for
+staging.","• Confirm diagnosis of Merkel cell carcinoma with pathology report  
+• Document staging indication and clinical rationale for 18F-FDG PET  
+• Include previous imaging studies and treatment history  
+• Obtain physician's order and any relevant clinical notes"
+18F-FDG PET,Neuroendocrine tumours (NETs),Staging,Recommended,FDG PET/CT is recommended in staging of undifferentiated and non-secretory NETs of the thorax.,"• Confirm the diagnosis of neuroendocrine tumours (NETs)  
+• Document the indication for staging  
+• Provide clinical rationale for the use of 18F-FDG PET in this case  
+• Include any previous imaging results relevant to staging"
+18F-FDG PET,Neuroendocrine tumours (NETs),Staging,Recommended,Staging or restaging (including pre-operative assessments) of selected patients with poorly differentiated neuroendocrine tumours (NETs) including phaeochromocytoma and paraganglioma (in particular those with succinate dehydrogenase mutations) prior to treatment with negative somatostatin receptor imaging with single photon techniques or [68Ga]Ga-DOTA-TOC or [68Ga]Ga-DOTA-TATE PET-CT,"• Clinical documentation supporting the diagnosis of poorly differentiated neuroendocrine tumours (NETs)  
+• Evidence of negative somatostatin receptor imaging results  
+• Justification for the need for 18F-FDG PET for staging or restaging  
+• Patient history including prior treatments and current symptoms"
+18F-FDG PET,Neuroendocrine tumours (NETs),Staging,Recommended,Staging of well-differentiated neuroendocrine tumour with lesion(s) showing rapid progression,"• Confirm diagnosis of well-differentiated neuroendocrine tumour (NET)  
+• Document evidence of rapid progression of lesion(s)  
+• Include previous imaging results for comparison  
+• Provide clinical rationale for staging with 18F-FDG PET scan"
+18F-FDG PET,Neuroendocrine tumours (NETs),Staging,Recommended,Staging of well-differentiated neuroendocrine tumour with lesion(s) on cross sectional imaging that is negative on SSR imaging to evaluate for secondary pathology or dedifferentiation.,"• Confirmation of diagnosis of well-differentiated neuroendocrine tumour (NET)  
+• Cross-sectional imaging results indicating lesion(s)  
+• SSR imaging results showing negative findings  
+• Clinical rationale for staging and evaluation of secondary pathology or dedifferentiation"
+18F-FDG PET,Neuroendocrine tumours (NETs),Staging,Recommended,Assessment of selected patients with adrenocortical carcinoma being considered for invasive treatment where cross-sectional imaging is inconclusive.,"• Confirm diagnosis of neuroendocrine tumours (NETs) with supporting pathology reports.  
+• Provide documentation of inconclusive cross-sectional imaging results.  
+• Include clinical rationale for the need for 18F-FDG PET scan in staging.  
+• Ensure referral from the treating physician outlining treatment considerations."
+18F-FDG PET,Neuroendocrine tumours (NETs),Staging,Recommended,Assessment of possible multifocal disease in patients with paraganglioma considered for surgery in combination with [68Ga]Ga-DOTA-TOC or [68Ga]Ga-DOTA TATE PET-CT,"• Confirm diagnosis of neuroendocrine tumours (NETs) with supporting pathology report.  
+• Document staging indication and rationale for 18F-FDG PET scan.  
+• Include assessment of multifocal disease and surgical consideration details.  
+• Provide previous imaging results and any relevant clinical notes."
+18F-FDG PET,Neuroendocrine tumours (NETs),Staging,Recommended,Risk stratification of well-differentiated NETs for treatment planning.,"• Clinical notes detailing the diagnosis of neuroendocrine tumours (NETs)  
+• Staging information and risk stratification data for well-differentiated NETs  
+• Justification for the use of 18F-FDG PET in treatment planning  
+• Any previous imaging studies relevant to the current request"
+18F-FDG PET,Neuroendocrine tumours (NETs),Staging,Recommended,"Identify patients who are unlikely to respond to 177Lu-DOTATATE therapy (ie, discordant lesions that are SSR negative and FDG positive).","• Clinical documentation supporting the diagnosis of neuroendocrine tumours (NETs)  
+• Evidence of discordant lesions (SSR negative and FDG positive)  
+• Justification for staging with 18F-FDG PET scan  
+• Previous treatment history and response to therapy"
+18F-FDG PET,Neuroendocrine tumours (NETs),Staging,May be Considered,FDG PET/CT may be considered as part of baseline workup of GEP-NETs as a prognostic measure and for staging of poorly differentiated NETs.,"• Confirm diagnosis of neuroendocrine tumours (NETs) with supporting pathology report.  
+• Provide clinical rationale for staging and prognostic assessment using 18F-FDG PET.  
+• Include previous imaging studies and treatment history relevant to NETs.  
+• Document physician's recommendation and any relevant clinical guidelines."
+18F-FDG PET and Ga-DOTA-TATE/TOC/NOC PET,Neuroendocrine tumours (NETs),Staging,May be Considered,68Ga-SSTR PET and 18F-FDG PET are likely to be complementary in NET imaging.,"• Confirm the diagnosis of neuroendocrine tumours (NETs) with supporting pathology reports.  
+• Provide clinical rationale for staging using both 68Ga-SSTR PET and 18F-FDG PET.  
+• Include previous imaging results and treatment history to demonstrate necessity.  
+• Document any relevant symptoms or progression of disease to justify the request."
+F18 PSMA PET,Prostate cancer,Staging,Recommended in Select Cases,"Equivocal lesions: Consider PSMA PET in selected patients with equivocal lesions on baseline conventional staging investigations where management will be directly influenced by the PSMA result, after discussion in the MDT.It should be noted that no currently available PET tracer can replace lymph node dissection and histopathologic confirmation.23,24 [18F]fluciclovine or 18F/11C-radiolabelled choline may identify disease sites which were occult or equivocal on standard of care imaging. However, there is insufficient data to recommend the routine use in this setting. Discordant biopsy or contraindications to biopsy:","• Confirm diagnosis of prostate cancer and staging indication.  
+• Document MDT discussion regarding the use of F18 PSMA PET for equivocal lesions.  
+• Provide evidence of management decisions influenced by PSMA PET results.  
+• Include any relevant imaging reports and biopsy results indicating discordance or contraindications."
+F18 PSMA PET,Prostate cancer,Staging,Not Recommended,Non-metastatic castrate-resistant prostate cancer (nmCRPC) a. PET is not recommended routinely in patients with nmCRPC as the clinical benefit and impact on management in detecting metastases in disease thought to be non metastatic by conventional imaging remains unclear.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+F18 PSMA PET,Prostate cancer,Restaging,Recommended in Select Cases,F18 PSMA is recommended in select cases if there is biochemical recurrence after definitive therapy. PSA levels rise above 0.2 ng/mL following radical prostatectomy. Offer PSMA PET in patients with biochemical recurrence after radical radiotherapy/brachytherapy (PSA nadir + 2 ng/ml) in patients fit for salvage local therapy (salvage prostatectomy. Note multi-parametric prostate MRI should be performed for local staging if PSMA PET shows no metastatic disease.,"• Confirm diagnosis of prostate cancer and indication for restaging.  
+• Document PSA levels (must be above 0.2 ng/mL after radical prostatectomy or nadir + 2 ng/mL after radiotherapy).  
+• Provide clinical rationale for F18 PSMA PET in the context of biochemical recurrence.  
+• Include results of multi-parametric prostate MRI if applicable."
+F18 PSMA PET,Prostate cancer,Restaging,Recommended in Select Cases,"Patients being considered for 177Lu-labelled PSMA-ligand therapy, a PSMA PET should be performed. Consider paired [18F]FDG PET to optimise patient selection","• Confirm diagnosis of prostate cancer and indication for restaging  
+• Document consideration for 177Lu-labelled PSMA-ligand therapy  
+• Include results of any prior imaging studies, especially [18F]FDG PET if performed  
+• Provide clinical rationale for the necessity of F18 PSMA PET in this case"
+Ga PSMA PET,Prostate cancer,All indications,Not Recommended,Gallium PSMA PET Scan is not recommended for any indication due to its high cost and uncertain benefit over the less costly F18 PSMA. The health care provider should be asked to consider the less costly F18 PSMA.,"1. Decline  
+2. Appeal to be reviewed by the Medical Advisor"
+PET-CT in paediatrics,Hodgkin’s lymphoma,All indications,,Baseline staging (routine). Interim response assessment after two cycles of OEPA (routine). End of treatment assessment (consider). Clinical suspicion of relapse (consider).,"• Confirm diagnosis of Hodgkin’s lymphoma with supporting clinical documentation.  
+• Provide evidence of baseline staging and interim response assessment after two cycles of OEPA.  
+• Include clinical notes indicating suspicion of relapse if applicable.  
+• Document rationale for end of treatment assessment consideration."
+PET-CT in paediatrics,Non-Hodgkin’s lymphoma,All indications,,Staging (consider). Response assessment in selected cases (consider). Suspicion of relapse (consider).,"• Clinical notes detailing the diagnosis of Non-Hodgkin’s lymphoma  
+• Justification for the PET-CT scan based on staging, response assessment, or suspicion of relapse  
+• Previous imaging results (if applicable)  
+• Any relevant lab results or pathology reports"
+PET-CT in paediatrics,Leukaemia,All indications,,"Cross-sectional imaging performed in case of suspected extra-medullary disease (EMD); 20%-40% of patients with acute myeloid leukaemia have EMD at diagnosis; this is associated with high relapse rates. FDG PET-CT aids in detecting EMD, especially in the case of subclinical multifocal disease; however, the lack of definitive treatment options limits the clinical use of PET.","• Confirm diagnosis of leukaemia with supporting medical records.  
+• Document clinical rationale for PET-CT based on suspected extra-medullary disease.  
+• Include previous imaging results and treatment history relevant to EMD.  
+• Provide any relevant guidelines or studies supporting the use of PET-CT in this context."
+PET-CT in paediatrics,Osteosarcoma,All indications,," FDG PET/CT is the most accurate imaging technique for staging apart from the lungs (superior accuracy for bone metastases).
+Thin slice chest CT in full inspiration required for lung metastases.
+End-of-treatment FDG PET-CT usually not done, assessment based on histology. However, initial reports suggest decreased FDG avidity in primary osteosarcoma correlates with histological response.
+Value of interim FDG PET-CT not proven (no alternative chemotherapy alters outcome in poorly responding osteosarcomas).
+Possible role of FDG PET-CT in relapse to define extent of disease (probably more accurate than CT, especially in peri-prosthetic recurrence).","• Clinical justification for PET-CT in staging osteosarcoma, highlighting its accuracy for bone metastases  
+• Documentation of the patient's diagnosis and treatment history  
+• Thin slice chest CT results for lung metastases assessment  
+• Any relevant histology reports indicating response to treatment"
+PET-CT in paediatrics,Ewing’s sarcoma,All indications,," At staging, FDG PET-CT more sensitive to detect metastatic disease, apart from the lungs (chest CT required).
+Conflicting results on the use of PET-CT in predicting response to chemotherapy; further research is needed.","• Confirm diagnosis of Ewing’s sarcoma with pathology report.  
+• Provide clinical rationale for the necessity of PET-CT at staging.  
+• Include previous imaging results (if applicable) to support the request.  
+• Document any prior treatments and their outcomes related to the condition."
+PET-CT in paediatrics,Soft tissue sarcoma,All indications,,"Rhabdomyosarcoma (RMS, four histological subtypes) includes over 50% of soft tissue sarcomas.
+Sites of metastatic disease: lungs, loco-regional lymph nodes, bone marrow and cortical bone.  Outcome linked to site and number of metastases - routine FDG PET-CT at staging (lymph nodes, bone marrow and cortical bone) recommended, more sensitive than CT dedicated thin slice chest CT for assessment of possible lung disease required.
+Parametric PET factors (SUVmax, MTV, TLG) not predictive of poor prognosis.","• Confirm diagnosis of soft tissue sarcoma, specifying rhabdomyosarcoma subtype if applicable.  
+• Document indication for PET-CT, emphasizing routine FDG PET-CT for staging.  
+• Include evidence of metastatic disease sites (lungs, lymph nodes, bone marrow, cortical bone).  
+• Provide clinical rationale for imaging request based on sensitivity compared to CT."
+PET-CT in paediatrics,Malignant peripheral nerve sheath tumours (MPNST),All indications,,"Malignant transformation in previously benign plexiform neurofibromata in neurofibromatosis type 1 patients. High NPV of FDG PET-CT (a positive PET-CT scan has low specificity). Strong reliance on histological sampling when malignant transformation based on clinical symptoms is suspected. Possible role of FDG PET-CT in predicting malignant change in asymptomatic patients or in children with difficulty in verbally expressing symptomatology, for earlier diagnosis and improved overall survival.","• Clinical history detailing the diagnosis of malignant peripheral nerve sheath tumours (MPNST)  
+• Documentation of previous imaging studies and histological sampling results  
+• Justification for the use of FDG PET-CT based on clinical symptoms or suspicion of malignant transformation  
+• Any relevant guidelines or literature supporting the role of FDG PET-CT in this specific patient population"
+PET-CT in paediatrics,Brain tumours,All indications,,"FDG PET-CT currently used as a problem-solving tool.– To improve diagnostic yield from biopsy to assess the histological grade– Glioblastomas and medulloblastomas show high grade FDG uptake– Brain stem gliomas have low-grade uptake– Ependymomas have low-grade uptake– FDG PET can improve tumour delineation when co-registered with MRI– To distinguish between residual disease or recurrence– Superior accuracy of amino-acid analogue PET-CT (e.g. choline, L-dihydroxyphenylalanine ([18F]fluorodopa), [18F]F-fluoroethyl-L-tyrosine, 11C-methionine), with a higher tumour-to-background ratio than FDG.","• Clinical justification for the PET-CT scan, detailing the specific indications related to brain tumours.  
+• Documentation of previous imaging studies (e.g., MRI) and their findings.  
+• Pathology reports supporting the need for improved diagnostic yield from biopsy.  
+• Evidence of treatment history and current clinical status of the patient."
+PET-CT in paediatrics,Neuroblastoma,All indications,,"Valuable role of FDG PET-CT in mIBG negative neuroblastoma. FDG PET-CT: higher sensitivity but lower specificity than mIBG: biopsy may be needed for soft tissue lesions. Small volume bone marrow involvement may be missed with both FDG PET-CT and mIBG SPECT-CT: bone marrow biopsy needed. FDG PET-CT may be a better predictor of PFS than mIBG.13 123I-mIBG still gold standard after chemotherapy (FDG PET-CT less sensitive and specific for bone/bone marrow disease). mIBG positive neuroblastomas can become mIBG negative; problem-solving role of FDG PET-CT in these cases. [18F]F-fluorophenyl-alanine (F-DOPA) and [68Ga]Ga-somatostatin receptor (SSR) analogues are alternative PET tracers, not widely available yet, with higher sensitivity compared to FDG PET-CT and 123I-mIBG SPECT-CT. [18F]F-meta-fluorobenzylguanidine (MFBG) new promising tracer.","• Clinical justification outlining the role of FDG PET-CT in mIBG negative neuroblastoma  
+• Documentation of previous imaging results (mIBG and any other relevant scans)  
+• Summary of the patient's treatment history and current status  
+• Any relevant pathology reports supporting the need for imaging due to soft tissue lesions or bone marrow involvement"
+PET-CT in paediatrics,Wilms’ tumour,All indications,,"mited data on FDG PET-CT– May predict tumour viability after neoadjuvant chemotherapy– May detect more sites of disease at relapse versus MRI § Current, problem-solving role for restaging relapsed patients.17","• Clinical justification for PET-CT in the context of Wilms’ tumour  
+• Evidence of neoadjuvant chemotherapy and need for viability assessment  
+• Previous imaging results (e.g., MRI) for comparison  
+• Documentation of current disease status and any relapse indications"
+PET-CT in paediatrics,Langerhans cell histiocytosis (LCH),All indications,,Single or several lesions (involving a single or multiple body systems). Prognosis determined by organ involvement and treatment response. FDG PET-CT appears to be highly sensitive for staging and response assessment with a low false-positive rate.,"• Clinical documentation confirming diagnosis of Langerhans cell histiocytosis (LCH)  
+• Detailed imaging request specifying the need for PET-CT  
+• Evidence of single or multiple lesions and organ involvement  
+• Justification for the use of FDG PET-CT for staging and response assessment"
+PET-CT in paediatrics,Germ cell tumour,All indications,,"As a problem-solving tool at staging, biopsy guidance, assessment of residual metabolic activity and recurrence detection.","• Clinical notes detailing the diagnosis of germ cell tumour and rationale for PET-CT use  
+• Documentation of previous imaging studies and their results  
+• Justification for the use of PET-CT as a problem-solving tool for staging, biopsy guidance, and recurrence detection  
+• Any relevant lab results or pathology reports supporting the need for the scan"
+PET-CT in paediatrics,Hepatoblastoma,All indications,,Currently limited role for FDG PET-CT in the detection of suspected tumour relapse with negative conventional imaging and rising blood serum alpha-fetoprotein.,"• Clinical notes detailing the diagnosis of hepatoblastoma and current treatment status  
+• Results of conventional imaging studies  
+• Recent blood serum alpha-fetoprotein levels  
+• Justification for the use of PET-CT in this specific case"
